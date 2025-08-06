@@ -42,3 +42,6 @@ next-env.d.ts
 
 .idea/
 blog/*
+
+scripts/credentials.json
+scripts/posts.json
