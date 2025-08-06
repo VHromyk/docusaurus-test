@@ -1,0 +1,34 @@
+{
+  "permalink": "/owosso-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/owosso-mi-small-business-requirements.mdx",
+  "source": "@site/blog/owosso-mi-small-business-requirements.mdx",
+  "title": "Owosso, MI",
+  "description": "Owosso, MI",
+  "date": "2025-08-06T17:58:57.489Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Owosso, MI",
+    "description": "Owosso, MI",
+    "slug": "owosso-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Portland, MI",
+    "permalink": "/portland-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Mason, MI",
+    "permalink": "/mason-mi-small-business-requirements"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "permalink": "/bitty-cash-advance",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/bitty-cash-advance.mdx",
+  "source": "@site/blog/bitty-cash-advance.mdx",
+  "title": "Bitty Cash Advance",
+  "description": "Bitty Cash Advance",
+  "date": "2025-08-06T17:58:59.339Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Bitty Cash Advance",
+    "description": "Bitty Cash Advance",
+    "slug": "bitty-cash-advance",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "SBA Loan by SmartBiz",
+    "permalink": "/sba-loan-business"
+  },
+  "nextItem": {
+    "title": "Loan by Kabbage",
+    "permalink": "/loan-kabbage"
+  }
+}

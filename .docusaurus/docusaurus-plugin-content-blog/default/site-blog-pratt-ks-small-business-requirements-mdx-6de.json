@@ -1,0 +1,34 @@
+{
+  "permalink": "/pratt-ks-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/pratt-ks-small-business-requirements.mdx",
+  "source": "@site/blog/pratt-ks-small-business-requirements.mdx",
+  "title": "Pratt, KS",
+  "description": "Pratt, KS",
+  "date": "2025-08-06T17:58:58.346Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "KS",
+      "permalink": "/tags/ks"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Pratt, KS",
+    "description": "Pratt, KS",
+    "slug": "pratt-ks-small-business-requirements",
+    "tags": [
+      "KS"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Newton, KS",
+    "permalink": "/newton-ks-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Maize, KS",
+    "permalink": "/maize-ks-small-business-requirements"
+  }
+}

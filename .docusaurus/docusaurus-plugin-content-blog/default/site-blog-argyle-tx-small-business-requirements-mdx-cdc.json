@@ -1,0 +1,34 @@
+{
+  "permalink": "/argyle-tx-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/argyle-tx-small-business-requirements.mdx",
+  "source": "@site/blog/argyle-tx-small-business-requirements.mdx",
+  "title": "Argyle, TX",
+  "description": "Argyle, TX",
+  "date": "2025-08-06T17:58:58.593Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "TX",
+      "permalink": "/tags/tx"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Argyle, TX",
+    "description": "Argyle, TX",
+    "slug": "argyle-tx-small-business-requirements",
+    "tags": [
+      "TX"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Aubrey, TX",
+    "permalink": "/aubrey-tx-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Denton, TX",
+    "permalink": "/denton-tx-small-business-requirements"
+  }
+}

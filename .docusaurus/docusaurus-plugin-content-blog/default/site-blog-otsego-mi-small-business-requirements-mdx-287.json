@@ -1,0 +1,34 @@
+{
+  "permalink": "/otsego-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/otsego-mi-small-business-requirements.mdx",
+  "source": "@site/blog/otsego-mi-small-business-requirements.mdx",
+  "title": "Otsego, MI",
+  "description": "Otsego, MI",
+  "date": "2025-08-06T17:58:57.509Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Otsego, MI",
+    "description": "Otsego, MI",
+    "slug": "otsego-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Mattawan, MI",
+    "permalink": "/mattawan-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Marshall, MI",
+    "permalink": "/marshall-mi-small-business-requirements"
+  }
+}

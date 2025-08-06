@@ -1,0 +1,34 @@
+{
+  "permalink": "/climax-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/climax-mi-small-business-requirements.mdx",
+  "source": "@site/blog/climax-mi-small-business-requirements.mdx",
+  "title": "Climax, MI",
+  "description": "Climax, MI",
+  "date": "2025-08-06T17:58:57.500Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Climax, MI",
+    "description": "Climax, MI",
+    "slug": "climax-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Centreville, MI",
+    "permalink": "/centreville-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Bloomingdale, MI",
+    "permalink": "/bloomingdale-mi-small-business-requirements"
+  }
+}

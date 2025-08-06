@@ -1,0 +1,34 @@
+{
+  "permalink": "/orange-ca-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/orange-ca-small-business-requirements.mdx",
+  "source": "@site/blog/orange-ca-small-business-requirements.mdx",
+  "title": "Orange, CA",
+  "description": "Orange, CA",
+  "date": "2025-08-06T17:58:59.048Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Orange, CA",
+    "description": "Orange, CA",
+    "slug": "orange-ca-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Norco, CA",
+    "permalink": "/norco-ca-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Fullerton, CA",
+    "permalink": "/fullerton-ca-small-business-requirements"
+  }
+}

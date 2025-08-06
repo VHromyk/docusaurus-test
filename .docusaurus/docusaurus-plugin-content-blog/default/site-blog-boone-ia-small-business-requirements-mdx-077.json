@@ -1,0 +1,34 @@
+{
+  "permalink": "/boone-ia-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/boone-ia-small-business-requirements.mdx",
+  "source": "@site/blog/boone-ia-small-business-requirements.mdx",
+  "title": "Boone, IA",
+  "description": "Boone, IA",
+  "date": "2025-08-06T17:58:57.600Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IA",
+      "permalink": "/tags/ia"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Boone, IA",
+    "description": "Boone, IA",
+    "slug": "boone-ia-small-business-requirements",
+    "tags": [
+      "IA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Atlantic, IA",
+    "permalink": "/atlantic-ia-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Anita, IA",
+    "permalink": "/anita-ia-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/media-pa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/media-pa-small-business-requirements.mdx",
+  "source": "@site/blog/media-pa-small-business-requirements.mdx",
+  "title": "Media, PA",
+  "description": "Media, PA",
+  "date": "2025-08-06T17:58:56.307Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "PA",
+      "permalink": "/tags/pa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Media, PA",
+    "description": "Media, PA",
+    "slug": "media-pa-small-business-requirements",
+    "tags": [
+      "PA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Ridley Park, PA",
+    "permalink": "/ridleypark-pa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Springfield, PA",
+    "permalink": "/springfield-pa-small-business-requirements"
+  }
+}

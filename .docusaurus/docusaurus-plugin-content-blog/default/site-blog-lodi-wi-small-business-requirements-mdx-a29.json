@@ -1,0 +1,34 @@
+{
+  "permalink": "/lodi-wi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/lodi-wi-small-business-requirements.mdx",
+  "source": "@site/blog/lodi-wi-small-business-requirements.mdx",
+  "title": "Lodi, WI",
+  "description": "Lodi, WI",
+  "date": "2025-08-06T17:58:57.741Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WI",
+      "permalink": "/tags/wi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Lodi, WI",
+    "description": "Lodi, WI",
+    "slug": "lodi-wi-small-business-requirements",
+    "tags": [
+      "WI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Lake Mills, WI",
+    "permalink": "/lakemills-wi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Janesville, WI",
+    "permalink": "/janesville-wi-small-business-requirements"
+  }
+}

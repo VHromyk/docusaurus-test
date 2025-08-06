@@ -1,0 +1,34 @@
+{
+  "permalink": "/elsie-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/elsie-mi-small-business-requirements.mdx",
+  "source": "@site/blog/elsie-mi-small-business-requirements.mdx",
+  "title": "Elsie, MI",
+  "description": "Elsie, MI",
+  "date": "2025-08-06T17:58:57.483Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Elsie, MI",
+    "description": "Elsie, MI",
+    "slug": "elsie-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Edmore, MI",
+    "permalink": "/edmore-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "East Lansing, MI",
+    "permalink": "/eastlansing-mi-small-business-requirements"
+  }
+}

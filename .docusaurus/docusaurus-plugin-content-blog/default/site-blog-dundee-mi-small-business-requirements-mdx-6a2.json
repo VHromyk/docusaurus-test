@@ -1,0 +1,34 @@
+{
+  "permalink": "/dundee-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/dundee-mi-small-business-requirements.mdx",
+  "source": "@site/blog/dundee-mi-small-business-requirements.mdx",
+  "title": "Dundee, MI",
+  "description": "Dundee, MI",
+  "date": "2025-08-06T17:58:57.421Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Dundee, MI",
+    "description": "Dundee, MI",
+    "slug": "dundee-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Dexter, MI",
+    "permalink": "/dexter-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Dearborn Heights, MI",
+    "permalink": "/dearbornheights-mi-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/lorena-tx-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/lorena-tx-small-business-requirements.mdx",
+  "source": "@site/blog/lorena-tx-small-business-requirements.mdx",
+  "title": "Lorena, TX",
+  "description": "Lorena, TX",
+  "date": "2025-08-06T17:58:58.623Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "TX",
+      "permalink": "/tags/tx"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Lorena, TX",
+    "description": "Lorena, TX",
+    "slug": "lorena-tx-small-business-requirements",
+    "tags": [
+      "TX"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Italy, TX",
+    "permalink": "/italy-tx-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Hillsboro, TX",
+    "permalink": "/hillsboro-tx-small-business-requirements"
+  }
+}

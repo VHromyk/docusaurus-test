@@ -1,0 +1,34 @@
+{
+  "permalink": "/king-nc-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/king-nc-small-business-requirements.mdx",
+  "source": "@site/blog/king-nc-small-business-requirements.mdx",
+  "title": "King, NC",
+  "description": "King, NC",
+  "date": "2025-08-06T17:58:56.490Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NC",
+      "permalink": "/tags/nc"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "King, NC",
+    "description": "King, NC",
+    "slug": "king-nc-small-business-requirements",
+    "tags": [
+      "NC"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Dobson, NC",
+    "permalink": "/dobson-nc-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Clemmons, NC",
+    "permalink": "/clemmons-nc-small-business-requirements"
+  }
+}

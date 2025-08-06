@@ -1,0 +1,34 @@
+{
+  "permalink": "/ripon-ca-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/ripon-ca-small-business-requirements.mdx",
+  "source": "@site/blog/ripon-ca-small-business-requirements.mdx",
+  "title": "Ripon, CA",
+  "description": "Ripon, CA",
+  "date": "2025-08-06T17:58:59.148Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Ripon, CA",
+    "description": "Ripon, CA",
+    "slug": "ripon-ca-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Patterson, CA",
+    "permalink": "/patterson-ca-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Newman, CA",
+    "permalink": "/newman-ca-small-business-requirements"
+  }
+}

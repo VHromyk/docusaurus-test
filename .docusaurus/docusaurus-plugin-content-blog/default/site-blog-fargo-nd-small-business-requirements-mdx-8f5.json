@@ -1,0 +1,34 @@
+{
+  "permalink": "/fargo-nd-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/fargo-nd-small-business-requirements.mdx",
+  "source": "@site/blog/fargo-nd-small-business-requirements.mdx",
+  "title": "Fargo, ND",
+  "description": "Fargo, ND",
+  "date": "2025-08-06T17:58:57.996Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ND",
+      "permalink": "/tags/nd"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Fargo, ND",
+    "description": "Fargo, ND",
+    "slug": "fargo-nd-small-business-requirements",
+    "tags": [
+      "ND"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Park River, ND",
+    "permalink": "/parkriver-nd-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Grand Forks, ND",
+    "permalink": "/grandforks-nd-small-business-requirements"
+  }
+}

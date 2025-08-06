@@ -1,0 +1,34 @@
+{
+  "permalink": "/algoma-wi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/algoma-wi-small-business-requirements.mdx",
+  "source": "@site/blog/algoma-wi-small-business-requirements.mdx",
+  "title": "Algoma, WI",
+  "description": "Algoma, WI",
+  "date": "2025-08-06T17:58:57.784Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WI",
+      "permalink": "/tags/wi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Algoma, WI",
+    "description": "Algoma, WI",
+    "slug": "algoma-wi-small-business-requirements",
+    "tags": [
+      "WI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Kewaunee, WI",
+    "permalink": "/kewaunee-wi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Wrightstown, WI",
+    "permalink": "/wrightstown-wi-small-business-requirements"
+  }
+}

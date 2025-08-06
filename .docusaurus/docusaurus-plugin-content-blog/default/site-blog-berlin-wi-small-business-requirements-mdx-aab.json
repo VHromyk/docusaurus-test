@@ -1,0 +1,34 @@
+{
+  "permalink": "/berlin-wi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/berlin-wi-small-business-requirements.mdx",
+  "source": "@site/blog/berlin-wi-small-business-requirements.mdx",
+  "title": "Berlin, WI",
+  "description": "Berlin, WI",
+  "date": "2025-08-06T17:58:57.825Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WI",
+      "permalink": "/tags/wi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Berlin, WI",
+    "description": "Berlin, WI",
+    "slug": "berlin-wi-small-business-requirements",
+    "tags": [
+      "WI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Manawa, WI",
+    "permalink": "/manawa-wi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Fond Du Lac, WI",
+    "permalink": "/fonddulac-wi-small-business-requirements"
+  }
+}

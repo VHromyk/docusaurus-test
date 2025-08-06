@@ -1,0 +1,34 @@
+{
+  "permalink": "/auburn-wa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/auburn-wa-small-business-requirements.mdx",
+  "source": "@site/blog/auburn-wa-small-business-requirements.mdx",
+  "title": "Auburn, WA",
+  "description": "Auburn, WA",
+  "date": "2025-08-06T17:58:59.256Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WA",
+      "permalink": "/tags/wa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Auburn, WA",
+    "description": "Auburn, WA",
+    "slug": "auburn-wa-small-business-requirements",
+    "tags": [
+      "WA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Carnation, WA",
+    "permalink": "/carnation-wa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Federal Way, WA",
+    "permalink": "/federalway-wa-small-business-requirements"
+  }
+}

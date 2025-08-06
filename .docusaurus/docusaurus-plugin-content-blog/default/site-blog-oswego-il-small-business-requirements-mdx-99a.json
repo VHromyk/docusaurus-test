@@ -1,0 +1,34 @@
+{
+  "permalink": "/oswego-il-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/oswego-il-small-business-requirements.mdx",
+  "source": "@site/blog/oswego-il-small-business-requirements.mdx",
+  "title": "Oswego, IL",
+  "description": "Oswego, IL",
+  "date": "2025-08-06T17:58:58.113Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Oswego, IL",
+    "description": "Oswego, IL",
+    "slug": "oswego-il-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Riverside, IL",
+    "permalink": "/riverside-il-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Plainfield, IL",
+    "permalink": "/plainfield-il-small-business-requirements"
+  }
+}

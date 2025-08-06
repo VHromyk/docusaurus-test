@@ -1,0 +1,34 @@
+{
+  "permalink": "/harris-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/harris-mi-small-business-requirements.mdx",
+  "source": "@site/blog/harris-mi-small-business-requirements.mdx",
+  "title": "Harris, MI",
+  "description": "Harris, MI",
+  "date": "2025-08-06T17:58:57.585Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Harris, MI",
+    "description": "Harris, MI",
+    "slug": "harris-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Escanaba, MI",
+    "permalink": "/escanaba-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Allouez, MI",
+    "permalink": "/allouez-mi-small-business-requirements"
+  }
+}

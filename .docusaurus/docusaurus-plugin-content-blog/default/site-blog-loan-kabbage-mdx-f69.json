@@ -1,0 +1,26 @@
+{
+  "permalink": "/loan-kabbage",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/loan-kabbage.mdx",
+  "source": "@site/blog/loan-kabbage.mdx",
+  "title": "Loan by Kabbage",
+  "description": "Loan by Kabbage",
+  "date": "2025-08-06T17:58:59.339Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Loan by Kabbage",
+    "description": "Loan by Kabbage",
+    "slug": "loan-kabbage",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Bitty Cash Advance",
+    "permalink": "/bitty-cash-advance"
+  },
+  "nextItem": {
+    "title": "Fundbox Loan",
+    "permalink": "/fundbox-business-loan"
+  }
+}

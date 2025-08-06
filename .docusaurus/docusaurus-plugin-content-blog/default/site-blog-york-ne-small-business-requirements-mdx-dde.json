@@ -1,0 +1,34 @@
+{
+  "permalink": "/york-ne-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/york-ne-small-business-requirements.mdx",
+  "source": "@site/blog/york-ne-small-business-requirements.mdx",
+  "title": "York, NE",
+  "description": "York, NE",
+  "date": "2025-08-06T17:58:58.382Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NE",
+      "permalink": "/tags/ne"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "York, NE",
+    "description": "York, NE",
+    "slug": "york-ne-small-business-requirements",
+    "tags": [
+      "NE"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Columbus, NE",
+    "permalink": "/columbus-ne-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Tecumseh, NE",
+    "permalink": "/tecumseh-ne-small-business-requirements"
+  }
+}

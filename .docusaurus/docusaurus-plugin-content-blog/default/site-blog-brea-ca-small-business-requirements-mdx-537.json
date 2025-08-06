@@ -1,0 +1,34 @@
+{
+  "permalink": "/brea-ca-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/brea-ca-small-business-requirements.mdx",
+  "source": "@site/blog/brea-ca-small-business-requirements.mdx",
+  "title": "Brea, CA",
+  "description": "Brea, CA",
+  "date": "2025-08-06T17:58:59.046Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Brea, CA",
+    "description": "Brea, CA",
+    "slug": "brea-ca-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Anaheim, CA",
+    "permalink": "/anaheim-ca-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Fountain Valley, CA",
+    "permalink": "/fountainvalley-ca-small-business-requirements"
+  }
+}

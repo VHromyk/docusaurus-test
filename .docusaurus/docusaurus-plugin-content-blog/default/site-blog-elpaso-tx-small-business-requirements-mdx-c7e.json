@@ -1,0 +1,34 @@
+{
+  "permalink": "/elpaso-tx-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/elpaso-tx-small-business-requirements.mdx",
+  "source": "@site/blog/elpaso-tx-small-business-requirements.mdx",
+  "title": "El Paso, TX",
+  "description": "El Paso, TX",
+  "date": "2025-08-06T17:58:58.750Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "TX",
+      "permalink": "/tags/tx"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "El Paso, TX",
+    "description": "El Paso, TX",
+    "slug": "elpaso-tx-small-business-requirements",
+    "tags": [
+      "TX"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Arvada, CO",
+    "permalink": "/arvada-co-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Pecos, TX",
+    "permalink": "/pecos-tx-small-business-requirements"
+  }
+}

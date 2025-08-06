@@ -1,0 +1,34 @@
+{
+  "permalink": "/donald-or-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/donald-or-small-business-requirements.mdx",
+  "source": "@site/blog/donald-or-small-business-requirements.mdx",
+  "title": "Donald, OR",
+  "description": "Donald, OR",
+  "date": "2025-08-06T17:58:59.195Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "OR",
+      "permalink": "/tags/or"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Donald, OR",
+    "description": "Donald, OR",
+    "slug": "donald-or-small-business-requirements",
+    "tags": [
+      "OR"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Gervais, OR",
+    "permalink": "/gervais-or-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Estacada, OR",
+    "permalink": "/estacada-or-small-business-requirements"
+  }
+}

@@ -1,0 +1,14 @@
+.meta {
+    background-color: white;
+    padding: 8px 16px;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    font-size: 14px;
+    color: #666;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
+    display: inline-block;
+}
+
+.text strong {
+    color: #2e59d9; /* Синій або будь-який акцент */
+}

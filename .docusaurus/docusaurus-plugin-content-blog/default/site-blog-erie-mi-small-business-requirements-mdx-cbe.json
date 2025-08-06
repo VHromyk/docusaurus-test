@@ -1,0 +1,34 @@
+{
+  "permalink": "/erie-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/erie-mi-small-business-requirements.mdx",
+  "source": "@site/blog/erie-mi-small-business-requirements.mdx",
+  "title": "Erie, MI",
+  "description": "Erie, MI",
+  "date": "2025-08-06T17:58:57.422Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Erie, MI",
+    "description": "Erie, MI",
+    "slug": "erie-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Garden City, MI",
+    "permalink": "/gardencity-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Dexter, MI",
+    "permalink": "/dexter-mi-small-business-requirements"
+  }
+}

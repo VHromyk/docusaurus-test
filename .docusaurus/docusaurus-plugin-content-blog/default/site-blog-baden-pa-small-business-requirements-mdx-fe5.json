@@ -1,0 +1,34 @@
+{
+  "permalink": "/baden-pa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/baden-pa-small-business-requirements.mdx",
+  "source": "@site/blog/baden-pa-small-business-requirements.mdx",
+  "title": "Baden, PA",
+  "description": "Baden, PA",
+  "date": "2025-08-06T17:58:56.149Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "PA",
+      "permalink": "/tags/pa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Baden, PA",
+    "description": "Baden, PA",
+    "slug": "baden-pa-small-business-requirements",
+    "tags": [
+      "PA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Beaver Falls, PA",
+    "permalink": "/beaverfalls-pa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Aliquippa, PA",
+    "permalink": "/aliquippa-pa-small-business-requirements"
+  }
+}

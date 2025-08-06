@@ -1,0 +1,34 @@
+{
+  "permalink": "/wixom-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/wixom-mi-small-business-requirements.mdx",
+  "source": "@site/blog/wixom-mi-small-business-requirements.mdx",
+  "title": "Wixom, MI",
+  "description": "Wixom, MI",
+  "date": "2025-08-06T17:58:57.447Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Wixom, MI",
+    "description": "Wixom, MI",
+    "slug": "wixom-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Attica, MI",
+    "permalink": "/attica-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Milford, MI",
+    "permalink": "/milford-mi-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/dexter-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/dexter-mi-small-business-requirements.mdx",
+  "source": "@site/blog/dexter-mi-small-business-requirements.mdx",
+  "title": "Dexter, MI",
+  "description": "Dexter, MI",
+  "date": "2025-08-06T17:58:57.421Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Dexter, MI",
+    "description": "Dexter, MI",
+    "slug": "dexter-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Erie, MI",
+    "permalink": "/erie-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Dundee, MI",
+    "permalink": "/dundee-mi-small-business-requirements"
+  }
+}

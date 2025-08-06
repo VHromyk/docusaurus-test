@@ -1,0 +1,34 @@
+{
+  "permalink": "/emmett-id-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/emmett-id-small-business-requirements.mdx",
+  "source": "@site/blog/emmett-id-small-business-requirements.mdx",
+  "title": "Emmett, ID",
+  "description": "Emmett, ID",
+  "date": "2025-08-06T17:58:58.835Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ID",
+      "permalink": "/tags/id"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Emmett, ID",
+    "description": "Emmett, ID",
+    "slug": "emmett-id-small-business-requirements",
+    "tags": [
+      "ID"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Eagle, ID",
+    "permalink": "/eagle-id-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Caldwell, ID",
+    "permalink": "/caldwell-id-small-business-requirements"
+  }
+}

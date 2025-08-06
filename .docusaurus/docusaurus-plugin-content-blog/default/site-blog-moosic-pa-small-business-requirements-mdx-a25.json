@@ -1,0 +1,34 @@
+{
+  "permalink": "/moosic-pa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/moosic-pa-small-business-requirements.mdx",
+  "source": "@site/blog/moosic-pa-small-business-requirements.mdx",
+  "title": "Moosic, PA",
+  "description": "Moosic, PA",
+  "date": "2025-08-06T17:58:56.277Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "PA",
+      "permalink": "/tags/pa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Moosic, PA",
+    "description": "Moosic, PA",
+    "slug": "moosic-pa-small-business-requirements",
+    "tags": [
+      "PA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Old Forge, PA",
+    "permalink": "/oldforge-pa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Taylor, PA",
+    "permalink": "/taylor-pa-small-business-requirements"
+  }
+}

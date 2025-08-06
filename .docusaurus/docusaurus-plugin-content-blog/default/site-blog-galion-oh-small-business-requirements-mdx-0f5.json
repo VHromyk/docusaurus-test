@@ -1,0 +1,34 @@
+{
+  "permalink": "/galion-oh-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/galion-oh-small-business-requirements.mdx",
+  "source": "@site/blog/galion-oh-small-business-requirements.mdx",
+  "title": "Galion, OH",
+  "description": "Galion, OH",
+  "date": "2025-08-06T17:58:57.228Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "OH",
+      "permalink": "/tags/oh"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Galion, OH",
+    "description": "Galion, OH",
+    "slug": "galion-oh-small-business-requirements",
+    "tags": [
+      "OH"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Fostoria, OH",
+    "permalink": "/fostoria-oh-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Bucyrus, OH",
+    "permalink": "/bucyrus-oh-small-business-requirements"
+  }
+}

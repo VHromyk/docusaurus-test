@@ -1,0 +1,34 @@
+{
+  "permalink": "/oneida-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/oneida-ny-small-business-requirements.mdx",
+  "source": "@site/blog/oneida-ny-small-business-requirements.mdx",
+  "title": "Oneida, NY",
+  "description": "Oneida, NY",
+  "date": "2025-08-06T17:58:56.080Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Oneida, NY",
+    "description": "Oneida, NY",
+    "slug": "oneida-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Richfield Springs, NY",
+    "permalink": "/richfieldsprings-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Oriskany, NY",
+    "permalink": "/oriskany-ny-small-business-requirements"
+  }
+}

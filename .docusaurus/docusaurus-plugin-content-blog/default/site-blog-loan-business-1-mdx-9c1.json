@@ -1,0 +1,26 @@
+{
+  "permalink": "/loan-business-1",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/loan-business-1.mdx",
+  "source": "@site/blog/loan-business-1.mdx",
+  "title": "Term Loan by OnDeck",
+  "description": "Term Loan by OnDeck",
+  "date": "2025-08-06T17:58:59.340Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Term Loan by OnDeck",
+    "description": "Term Loan by OnDeck",
+    "slug": "loan-business-1",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Loan by Funding Circle",
+    "permalink": "/loan-funding-circle"
+  },
+  "nextItem": {
+    "title": "SBA Loan by SmartBiz",
+    "permalink": "/sba-loan-business"
+  }
+}

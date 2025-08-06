@@ -1,0 +1,34 @@
+{
+  "permalink": "/atglen-pa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/atglen-pa-small-business-requirements.mdx",
+  "source": "@site/blog/atglen-pa-small-business-requirements.mdx",
+  "title": "Atglen, PA",
+  "description": "Atglen, PA",
+  "date": "2025-08-06T17:58:56.311Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "PA",
+      "permalink": "/tags/pa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Atglen, PA",
+    "description": "Atglen, PA",
+    "slug": "atglen-pa-small-business-requirements",
+    "tags": [
+      "PA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Coatesville, PA",
+    "permalink": "/coatesville-pa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Swarthmore, PA",
+    "permalink": "/swarthmore-pa-small-business-requirements"
+  }
+}

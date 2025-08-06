@@ -1,0 +1,26 @@
+{
+  "permalink": "/loan-sb-financing",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/loan-sb-financing.mdx",
+  "source": "@site/blog/loan-sb-financing.mdx",
+  "title": "Loan by Credibly",
+  "description": "Loan by Credibly",
+  "date": "2025-08-06T17:58:59.342Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Loan by Credibly",
+    "description": "Loan by Credibly",
+    "slug": "loan-sb-financing",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Loan by Rapid Finance",
+    "permalink": "/loan-rapid-1"
+  },
+  "nextItem": {
+    "title": "Loan by Kapitus",
+    "permalink": "/business-loan-2"
+  }
+}

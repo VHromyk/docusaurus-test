@@ -1,0 +1,34 @@
+{
+  "permalink": "/delmar-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/delmar-ny-small-business-requirements.mdx",
+  "source": "@site/blog/delmar-ny-small-business-requirements.mdx",
+  "title": "Delmar, NY",
+  "description": "Delmar, NY",
+  "date": "2025-08-06T17:58:56.017Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Delmar, NY",
+    "description": "Delmar, NY",
+    "slug": "delmar-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Coxsackie, NY",
+    "permalink": "/coxsackie-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Cohoes, NY",
+    "permalink": "/cohoes-ny-small-business-requirements"
+  }
+}

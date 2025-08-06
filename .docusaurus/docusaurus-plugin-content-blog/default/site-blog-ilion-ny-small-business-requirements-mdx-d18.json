@@ -1,0 +1,34 @@
+{
+  "permalink": "/ilion-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/ilion-ny-small-business-requirements.mdx",
+  "source": "@site/blog/ilion-ny-small-business-requirements.mdx",
+  "title": "Ilion, NY",
+  "description": "Ilion, NY",
+  "date": "2025-08-06T17:58:56.078Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Ilion, NY",
+    "description": "Ilion, NY",
+    "slug": "ilion-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New Hartford, NY",
+    "permalink": "/newhartford-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Lowville, NY",
+    "permalink": "/lowville-ny-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/akron-oh-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/akron-oh-small-business-requirements.mdx",
+  "source": "@site/blog/akron-oh-small-business-requirements.mdx",
+  "title": "Akron, OH",
+  "description": "Akron, OH",
+  "date": "2025-08-06T17:58:57.198Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "OH",
+      "permalink": "/tags/oh"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Akron, OH",
+    "description": "Akron, OH",
+    "slug": "akron-oh-small-business-requirements",
+    "tags": [
+      "OH"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Fairlawn, OH",
+    "permalink": "/fairlawn-oh-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Windham, OH",
+    "permalink": "/windham-oh-small-business-requirements"
+  }
+}

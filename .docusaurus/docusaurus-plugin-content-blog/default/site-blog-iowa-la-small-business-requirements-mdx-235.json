@@ -1,0 +1,34 @@
+{
+  "permalink": "/iowa-la-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/iowa-la-small-business-requirements.mdx",
+  "source": "@site/blog/iowa-la-small-business-requirements.mdx",
+  "title": "Iowa, LA",
+  "description": "Iowa, LA",
+  "date": "2025-08-06T17:58:58.422Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "LA",
+      "permalink": "/tags/la"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Iowa, LA",
+    "description": "Iowa, LA",
+    "slug": "iowa-la-small-business-requirements",
+    "tags": [
+      "LA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Sulphur, LA",
+    "permalink": "/sulphur-la-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Lake Charles, LA",
+    "permalink": "/lakecharles-la-small-business-requirements"
+  }
+}

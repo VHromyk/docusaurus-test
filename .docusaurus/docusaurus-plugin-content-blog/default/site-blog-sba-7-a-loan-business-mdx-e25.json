@@ -1,0 +1,26 @@
+{
+  "permalink": "/sba-7a-loan-business",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/sba-7a-loan-business.mdx",
+  "source": "@site/blog/sba-7a-loan-business.mdx",
+  "title": "SBA 7(a) Loan",
+  "description": "SBA 7(a) Loan",
+  "date": "2025-08-06T17:58:59.337Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "SBA 7(a) Loan",
+    "description": "SBA 7(a) Loan",
+    "slug": "sba-7a-loan-business",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "SBA 504 loan",
+    "permalink": "/sba-504-loan-business"
+  },
+  "nextItem": {
+    "title": "Honolulu, HI",
+    "permalink": "/honolulu-hi-small-business-requirements"
+  }
+}

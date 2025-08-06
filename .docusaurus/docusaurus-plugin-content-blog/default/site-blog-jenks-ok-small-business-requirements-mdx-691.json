@@ -1,0 +1,34 @@
+{
+  "permalink": "/jenks-ok-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/jenks-ok-small-business-requirements.mdx",
+  "source": "@site/blog/jenks-ok-small-business-requirements.mdx",
+  "title": "Jenks, OK",
+  "description": "Jenks, OK",
+  "date": "2025-08-06T17:58:58.500Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "OK",
+      "permalink": "/tags/ok"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Jenks, OK",
+    "description": "Jenks, OK",
+    "slug": "jenks-ok-small-business-requirements",
+    "tags": [
+      "OK"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Sand Springs, OK",
+    "permalink": "/sandsprings-ok-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Owasso, OK",
+    "permalink": "/owasso-ok-small-business-requirements"
+  }
+}

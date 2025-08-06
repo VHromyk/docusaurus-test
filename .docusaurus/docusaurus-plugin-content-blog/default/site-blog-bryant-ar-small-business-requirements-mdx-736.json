@@ -1,0 +1,34 @@
+{
+  "permalink": "/bryant-ar-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/bryant-ar-small-business-requirements.mdx",
+  "source": "@site/blog/bryant-ar-small-business-requirements.mdx",
+  "title": "Bryant, AR",
+  "description": "Bryant, AR",
+  "date": "2025-08-06T17:58:58.447Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "AR",
+      "permalink": "/tags/ar"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Bryant, AR",
+    "description": "Bryant, AR",
+    "slug": "bryant-ar-small-business-requirements",
+    "tags": [
+      "AR"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Jacksonville, AR",
+    "permalink": "/jacksonville-ar-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Cabot, AR",
+    "permalink": "/cabot-ar-small-business-requirements"
+  }
+}

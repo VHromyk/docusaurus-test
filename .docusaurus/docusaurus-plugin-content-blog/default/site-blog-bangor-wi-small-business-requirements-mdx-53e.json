@@ -1,0 +1,34 @@
+{
+  "permalink": "/bangor-wi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/bangor-wi-small-business-requirements.mdx",
+  "source": "@site/blog/bangor-wi-small-business-requirements.mdx",
+  "title": "Bangor, WI",
+  "description": "Bangor, WI",
+  "date": "2025-08-06T17:58:57.801Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WI",
+      "permalink": "/tags/wi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Bangor, WI",
+    "description": "Bangor, WI",
+    "slug": "bangor-wi-small-business-requirements",
+    "tags": [
+      "WI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Holmen, WI",
+    "permalink": "/holmen-wi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Cashton, WI",
+    "permalink": "/cashton-wi-small-business-requirements"
+  }
+}

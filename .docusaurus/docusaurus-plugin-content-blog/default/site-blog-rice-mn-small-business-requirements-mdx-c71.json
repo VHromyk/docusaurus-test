@@ -1,0 +1,34 @@
+{
+  "permalink": "/rice-mn-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/rice-mn-small-business-requirements.mdx",
+  "source": "@site/blog/rice-mn-small-business-requirements.mdx",
+  "title": "Rice, MN",
+  "description": "Rice, MN",
+  "date": "2025-08-06T17:58:57.949Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MN",
+      "permalink": "/tags/mn"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Rice, MN",
+    "description": "Rice, MN",
+    "slug": "rice-mn-small-business-requirements",
+    "tags": [
+      "MN"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Royalton, MN",
+    "permalink": "/royalton-mn-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Richmond, MN",
+    "permalink": "/richmond-mn-small-business-requirements"
+  }
+}

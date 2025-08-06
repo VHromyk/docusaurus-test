@@ -1,0 +1,34 @@
+{
+  "permalink": "/oswego-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/oswego-ny-small-business-requirements.mdx",
+  "source": "@site/blog/oswego-ny-small-business-requirements.mdx",
+  "title": "Oswego, NY",
+  "description": "Oswego, NY",
+  "date": "2025-08-06T17:58:56.069Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Oswego, NY",
+    "description": "Oswego, NY",
+    "slug": "oswego-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Pulaski, NY",
+    "permalink": "/pulaski-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Parish, NY",
+    "permalink": "/parish-ny-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/eureka-ca-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/eureka-ca-small-business-requirements.mdx",
+  "source": "@site/blog/eureka-ca-small-business-requirements.mdx",
+  "title": "Eureka, CA",
+  "description": "Eureka, CA",
+  "date": "2025-08-06T17:58:59.158Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Eureka, CA",
+    "description": "Eureka, CA",
+    "slug": "eureka-ca-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Arcata, CA",
+    "permalink": "/arcata-ca-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Willits, CA",
+    "permalink": "/willits-ca-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/beloit-wi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/beloit-wi-small-business-requirements.mdx",
+  "source": "@site/blog/beloit-wi-small-business-requirements.mdx",
+  "title": "Beloit, WI",
+  "description": "Beloit, WI",
+  "date": "2025-08-06T17:58:57.734Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WI",
+      "permalink": "/tags/wi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Beloit, WI",
+    "description": "Beloit, WI",
+    "slug": "beloit-wi-small-business-requirements",
+    "tags": [
+      "WI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Belleville, WI",
+    "permalink": "/belleville-wi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Arena, WI",
+    "permalink": "/arena-wi-small-business-requirements"
+  }
+}

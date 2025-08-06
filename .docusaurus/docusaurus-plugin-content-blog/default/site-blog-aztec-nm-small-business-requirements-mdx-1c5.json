@@ -1,0 +1,34 @@
+{
+  "permalink": "/aztec-nm-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/aztec-nm-small-business-requirements.mdx",
+  "source": "@site/blog/aztec-nm-small-business-requirements.mdx",
+  "title": "Aztec, NM",
+  "description": "Aztec, NM",
+  "date": "2025-08-06T17:58:58.926Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NM",
+      "permalink": "/tags/nm"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Aztec, NM",
+    "description": "Aztec, NM",
+    "slug": "aztec-nm-small-business-requirements",
+    "tags": [
+      "NM"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Santa Fe, NM",
+    "permalink": "/santafe-nm-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Farmington, NM",
+    "permalink": "/farmington-nm-small-business-requirements"
+  }
+}

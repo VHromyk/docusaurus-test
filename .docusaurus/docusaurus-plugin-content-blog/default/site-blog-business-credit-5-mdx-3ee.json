@@ -1,0 +1,26 @@
+{
+  "permalink": "/business-credit-5",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/business-credit-5.mdx",
+  "source": "@site/blog/business-credit-5.mdx",
+  "title": "BOA Small Business Credit Cards",
+  "description": "BOA Small Business Credit Cards",
+  "date": "2025-08-06T17:58:59.346Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "BOA Small Business Credit Cards",
+    "description": "BOA Small Business Credit Cards",
+    "slug": "business-credit-5",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Blue Business Plus Card",
+    "permalink": "/business-credit-4"
+  },
+  "nextItem": {
+    "title": "Corpay One Business Credit Card",
+    "permalink": "/business-credit-2"
+  }
+}

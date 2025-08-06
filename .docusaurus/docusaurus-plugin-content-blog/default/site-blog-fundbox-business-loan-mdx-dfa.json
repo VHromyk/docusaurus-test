@@ -1,0 +1,26 @@
+{
+  "permalink": "/fundbox-business-loan",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/fundbox-business-loan.mdx",
+  "source": "@site/blog/fundbox-business-loan.mdx",
+  "title": "Fundbox Loan",
+  "description": "Fundbox Loan",
+  "date": "2025-08-06T17:58:59.338Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Fundbox Loan",
+    "description": "Fundbox Loan",
+    "slug": "fundbox-business-loan",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Loan by Kabbage",
+    "permalink": "/loan-kabbage"
+  },
+  "nextItem": {
+    "title": "Marcus Loan",
+    "permalink": "/marcus-business-loan"
+  }
+}

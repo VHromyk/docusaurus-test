@@ -1,0 +1,26 @@
+{
+  "permalink": "/loan-rapid-1",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/loan-rapid-1.mdx",
+  "source": "@site/blog/loan-rapid-1.mdx",
+  "title": "Loan by Rapid Finance",
+  "description": "Loan by Rapid Finance",
+  "date": "2025-08-06T17:58:59.342Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Loan by Rapid Finance",
+    "description": "Loan by Rapid Finance",
+    "slug": "loan-rapid-1",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Loan by Credibility Capital",
+    "permalink": "/loan-credit-biz"
+  },
+  "nextItem": {
+    "title": "Loan by Credibly",
+    "permalink": "/loan-sb-financing"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/galax-va-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/galax-va-small-business-requirements.mdx",
+  "source": "@site/blog/galax-va-small-business-requirements.mdx",
+  "title": "Galax, VA",
+  "description": "Galax, VA",
+  "date": "2025-08-06T17:58:56.450Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "VA",
+      "permalink": "/tags/va"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Galax, VA",
+    "description": "Galax, VA",
+    "slug": "galax-va-small-business-requirements",
+    "tags": [
+      "VA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Marion, VA",
+    "permalink": "/marion-va-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Hillsville, VA",
+    "permalink": "/hillsville-va-small-business-requirements"
+  }
+}

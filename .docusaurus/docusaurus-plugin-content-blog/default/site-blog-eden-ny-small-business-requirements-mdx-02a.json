@@ -1,0 +1,34 @@
+{
+  "permalink": "/eden-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/eden-ny-small-business-requirements.mdx",
+  "source": "@site/blog/eden-ny-small-business-requirements.mdx",
+  "title": "Eden, NY",
+  "description": "Eden, NY",
+  "date": "2025-08-06T17:58:56.105Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Eden, NY",
+    "description": "Eden, NY",
+    "slug": "eden-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "East Aurora, NY",
+    "permalink": "/eastaurora-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Depew, NY",
+    "permalink": "/depew-ny-small-business-requirements"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "permalink": "/equipment-leasing-american",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/equipment-leasing-american.mdx",
+  "source": "@site/blog/equipment-leasing-american.mdx",
+  "title": "Equipment Leasing",
+  "description": "Equipment Leasing",
+  "date": "2025-08-06T17:58:59.341Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Equipment Leasing",
+    "description": "Equipment Leasing",
+    "slug": "equipment-leasing-american",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Loan by Kapitus",
+    "permalink": "/business-loan-2"
+  },
+  "nextItem": {
+    "title": "Loan by Funding Circle",
+    "permalink": "/loan-funding-circle"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/mexico-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/mexico-ny-small-business-requirements.mdx",
+  "source": "@site/blog/mexico-ny-small-business-requirements.mdx",
+  "title": "Mexico, NY",
+  "description": "Mexico, NY",
+  "date": "2025-08-06T17:58:56.067Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Mexico, NY",
+    "description": "Mexico, NY",
+    "slug": "mexico-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Marcellus, NY",
+    "permalink": "/marcellus-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Jordan, NY",
+    "permalink": "/jordan-ny-small-business-requirements"
+  }
+}

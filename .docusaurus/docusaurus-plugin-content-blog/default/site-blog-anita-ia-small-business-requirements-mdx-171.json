@@ -1,0 +1,34 @@
+{
+  "permalink": "/anita-ia-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/anita-ia-small-business-requirements.mdx",
+  "source": "@site/blog/anita-ia-small-business-requirements.mdx",
+  "title": "Anita, IA",
+  "description": "Anita, IA",
+  "date": "2025-08-06T17:58:57.599Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IA",
+      "permalink": "/tags/ia"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Anita, IA",
+    "description": "Anita, IA",
+    "slug": "anita-ia-small-business-requirements",
+    "tags": [
+      "IA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Boone, IA",
+    "permalink": "/boone-ia-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Ankeny, IA",
+    "permalink": "/ankeny-ia-small-business-requirements"
+  }
+}

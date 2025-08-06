@@ -1,0 +1,34 @@
+{
+  "permalink": "/upton-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/upton-ny-small-business-requirements.mdx",
+  "source": "@site/blog/upton-ny-small-business-requirements.mdx",
+  "title": "Upton, NY",
+  "description": "Upton, NY",
+  "date": "2025-08-06T17:58:56.012Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Upton, NY",
+    "description": "Upton, NY",
+    "slug": "upton-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Athens, NY",
+    "permalink": "/athens-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Southampton, NY",
+    "permalink": "/southampton-ny-small-business-requirements"
+  }
+}

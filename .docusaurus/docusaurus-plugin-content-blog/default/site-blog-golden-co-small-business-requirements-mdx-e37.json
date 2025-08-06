@@ -1,0 +1,34 @@
+{
+  "permalink": "/golden-co-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/golden-co-small-business-requirements.mdx",
+  "source": "@site/blog/golden-co-small-business-requirements.mdx",
+  "title": "Golden, CO",
+  "description": "Golden, CO",
+  "date": "2025-08-06T17:58:58.758Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CO",
+      "permalink": "/tags/co"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Golden, CO",
+    "description": "Golden, CO",
+    "slug": "golden-co-small-business-requirements",
+    "tags": [
+      "CO"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Granby, CO",
+    "permalink": "/granby-co-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Boulder, CO",
+    "permalink": "/boulder-co-small-business-requirements"
+  }
+}

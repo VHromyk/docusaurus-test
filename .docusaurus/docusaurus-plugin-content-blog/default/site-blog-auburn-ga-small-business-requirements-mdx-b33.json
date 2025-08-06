@@ -1,0 +1,34 @@
+{
+  "permalink": "/auburn-ga-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/auburn-ga-small-business-requirements.mdx",
+  "source": "@site/blog/auburn-ga-small-business-requirements.mdx",
+  "title": "Auburn, GA",
+  "description": "Auburn, GA",
+  "date": "2025-08-06T17:58:56.683Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "GA",
+      "permalink": "/tags/ga"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Auburn, GA",
+    "description": "Auburn, GA",
+    "slug": "auburn-ga-small-business-requirements",
+    "tags": [
+      "GA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Alpharetta, GA",
+    "permalink": "/alpharetta-ga-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Hilton Head Island, SC",
+    "permalink": "/hiltonheadisland-sc-small-business-requirements"
+  }
+}

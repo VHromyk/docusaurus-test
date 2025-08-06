@@ -1,0 +1,34 @@
+{
+  "permalink": "/afton-wy-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/afton-wy-small-business-requirements.mdx",
+  "source": "@site/blog/afton-wy-small-business-requirements.mdx",
+  "title": "Afton, WY",
+  "description": "Afton, WY",
+  "date": "2025-08-06T17:58:58.820Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WY",
+      "permalink": "/tags/wy"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Afton, WY",
+    "description": "Afton, WY",
+    "slug": "afton-wy-small-business-requirements",
+    "tags": [
+      "WY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Pocatello, ID",
+    "permalink": "/pocatello-id-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Kemmerer, WY",
+    "permalink": "/kemmerer-wy-small-business-requirements"
+  }
+}

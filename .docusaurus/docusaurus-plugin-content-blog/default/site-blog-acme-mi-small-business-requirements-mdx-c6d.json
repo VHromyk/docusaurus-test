@@ -1,0 +1,34 @@
+{
+  "permalink": "/acme-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/acme-mi-small-business-requirements.mdx",
+  "source": "@site/blog/acme-mi-small-business-requirements.mdx",
+  "title": "Acme, MI",
+  "description": "Acme, MI",
+  "date": "2025-08-06T17:58:57.565Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Acme, MI",
+    "description": "Acme, MI",
+    "slug": "acme-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Bellaire, MI",
+    "permalink": "/bellaire-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Cadillac, MI",
+    "permalink": "/cadillac-mi-small-business-requirements"
+  }
+}

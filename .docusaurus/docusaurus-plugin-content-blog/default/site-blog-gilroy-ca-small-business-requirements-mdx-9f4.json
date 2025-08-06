@@ -1,0 +1,34 @@
+{
+  "permalink": "/gilroy-ca-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/gilroy-ca-small-business-requirements.mdx",
+  "source": "@site/blog/gilroy-ca-small-business-requirements.mdx",
+  "title": "Gilroy, CA",
+  "description": "Gilroy, CA",
+  "date": "2025-08-06T17:58:59.133Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Gilroy, CA",
+    "description": "Gilroy, CA",
+    "slug": "gilroy-ca-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Cupertino, CA",
+    "permalink": "/cupertino-ca-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Campbell, CA",
+    "permalink": "/campbell-ca-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/cuba-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/cuba-ny-small-business-requirements.mdx",
+  "source": "@site/blog/cuba-ny-small-business-requirements.mdx",
+  "title": "Cuba, NY",
+  "description": "Cuba, NY",
+  "date": "2025-08-06T17:58:56.138Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Cuba, NY",
+    "description": "Cuba, NY",
+    "slug": "cuba-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Little Valley, NY",
+    "permalink": "/littlevalley-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Falconer, NY",
+    "permalink": "/falconer-ny-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/drexel-nc-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/drexel-nc-small-business-requirements.mdx",
+  "source": "@site/blog/drexel-nc-small-business-requirements.mdx",
+  "title": "Drexel, NC",
+  "description": "Drexel, NC",
+  "date": "2025-08-06T17:58:56.617Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NC",
+      "permalink": "/tags/nc"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Drexel, NC",
+    "description": "Drexel, NC",
+    "slug": "drexel-nc-small-business-requirements",
+    "tags": [
+      "NC"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Conover, NC",
+    "permalink": "/conover-nc-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Boone, NC",
+    "permalink": "/boone-nc-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/banks-or-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/banks-or-small-business-requirements.mdx",
+  "source": "@site/blog/banks-or-small-business-requirements.mdx",
+  "title": "Banks, OR",
+  "description": "Banks, OR",
+  "date": "2025-08-06T17:58:59.206Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "OR",
+      "permalink": "/tags/or"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Banks, OR",
+    "description": "Banks, OR",
+    "slug": "banks-or-small-business-requirements",
+    "tags": [
+      "OR"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Cornelius, OR",
+    "permalink": "/cornelius-or-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Bay City, OR",
+    "permalink": "/baycity-or-small-business-requirements"
+  }
+}

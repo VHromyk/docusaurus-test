@@ -1,0 +1,26 @@
+{
+  "permalink": "/sba-loan-business",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/sba-loan-business.mdx",
+  "source": "@site/blog/sba-loan-business.mdx",
+  "title": "SBA Loan by SmartBiz",
+  "description": "SBA Loan by SmartBiz",
+  "date": "2025-08-06T17:58:59.340Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "SBA Loan by SmartBiz",
+    "description": "SBA Loan by SmartBiz",
+    "slug": "sba-loan-business",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Term Loan by OnDeck",
+    "permalink": "/loan-business-1"
+  },
+  "nextItem": {
+    "title": "Bitty Cash Advance",
+    "permalink": "/bitty-cash-advance"
+  }
+}

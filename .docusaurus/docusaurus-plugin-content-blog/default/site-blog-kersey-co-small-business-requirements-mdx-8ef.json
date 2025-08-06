@@ -1,0 +1,34 @@
+{
+  "permalink": "/kersey-co-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/kersey-co-small-business-requirements.mdx",
+  "source": "@site/blog/kersey-co-small-business-requirements.mdx",
+  "title": "Kersey, CO",
+  "description": "Kersey, CO",
+  "date": "2025-08-06T17:58:58.774Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CO",
+      "permalink": "/tags/co"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kersey, CO",
+    "description": "Kersey, CO",
+    "slug": "kersey-co-small-business-requirements",
+    "tags": [
+      "CO"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Keenesburg, CO",
+    "permalink": "/keenesburg-co-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Fort Lupton, CO",
+    "permalink": "/fortlupton-co-small-business-requirements"
+  }
+}

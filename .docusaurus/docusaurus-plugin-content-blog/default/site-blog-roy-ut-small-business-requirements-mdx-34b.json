@@ -1,0 +1,34 @@
+{
+  "permalink": "/roy-ut-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/roy-ut-small-business-requirements.mdx",
+  "source": "@site/blog/roy-ut-small-business-requirements.mdx",
+  "title": "Roy, UT",
+  "description": "Roy, UT",
+  "date": "2025-08-06T17:58:58.857Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "UT",
+      "permalink": "/tags/ut"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Roy, UT",
+    "description": "Roy, UT",
+    "slug": "roy-ut-small-business-requirements",
+    "tags": [
+      "UT"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Roosevelt, UT",
+    "permalink": "/roosevelt-ut-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Park City, UT",
+    "permalink": "/parkcity-ut-small-business-requirements"
+  }
+}

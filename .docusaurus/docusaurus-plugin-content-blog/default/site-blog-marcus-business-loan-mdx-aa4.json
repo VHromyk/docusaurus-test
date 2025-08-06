@@ -1,0 +1,26 @@
+{
+  "permalink": "/marcus-business-loan",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/marcus-business-loan.mdx",
+  "source": "@site/blog/marcus-business-loan.mdx",
+  "title": "Marcus Loan",
+  "description": "Marcus Loan",
+  "date": "2025-08-06T17:58:59.338Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Marcus Loan",
+    "description": "Marcus Loan",
+    "slug": "marcus-business-loan",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Fundbox Loan",
+    "permalink": "/fundbox-business-loan"
+  },
+  "nextItem": {
+    "title": "SBA Microloans",
+    "permalink": "/sba-microloan-business"
+  }
+}

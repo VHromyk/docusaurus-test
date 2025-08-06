@@ -1,0 +1,34 @@
+{
+  "permalink": "/truro-ma-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/truro-ma-small-business-requirements.mdx",
+  "source": "@site/blog/truro-ma-small-business-requirements.mdx",
+  "title": "Truro, MA",
+  "description": "Truro, MA",
+  "date": "2025-08-06T17:58:55.684Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MA",
+      "permalink": "/tags/ma"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Truro, MA",
+    "description": "Truro, MA",
+    "slug": "truro-ma-small-business-requirements",
+    "tags": [
+      "MA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Provincetown, MA",
+    "permalink": "/provincetown-ma-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Harwich, MA",
+    "permalink": "/harwich-ma-small-business-requirements"
+  }
+}

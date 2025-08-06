@@ -1,0 +1,34 @@
+{
+  "permalink": "/zion-il-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/zion-il-small-business-requirements.mdx",
+  "source": "@site/blog/zion-il-small-business-requirements.mdx",
+  "title": "Zion, IL",
+  "description": "Zion, IL",
+  "date": "2025-08-06T17:58:58.047Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Zion, IL",
+    "description": "Zion, IL",
+    "slug": "zion-il-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Woodstock, IL",
+    "permalink": "/woodstock-il-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Wilmette, IL",
+    "permalink": "/wilmette-il-small-business-requirements"
+  }
+}

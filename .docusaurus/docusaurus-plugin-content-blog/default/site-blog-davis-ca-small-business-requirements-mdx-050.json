@@ -1,0 +1,34 @@
+{
+  "permalink": "/davis-ca-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/davis-ca-small-business-requirements.mdx",
+  "source": "@site/blog/davis-ca-small-business-requirements.mdx",
+  "title": "Davis, CA",
+  "description": "Davis, CA",
+  "date": "2025-08-06T17:58:59.164Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Davis, CA",
+    "description": "Davis, CA",
+    "slug": "davis-ca-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Folsom, CA",
+    "permalink": "/folsom-ca-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Dixon, CA",
+    "permalink": "/dixon-ca-small-business-requirements"
+  }
+}

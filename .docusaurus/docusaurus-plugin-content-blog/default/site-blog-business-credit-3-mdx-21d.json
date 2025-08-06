@@ -1,0 +1,26 @@
+{
+  "permalink": "/business-credit-3",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/business-credit-3.mdx",
+  "source": "@site/blog/business-credit-3.mdx",
+  "title": "Blue Business Cash Credit Card",
+  "description": "Blue Business Cash Credit Card",
+  "date": "2025-08-06T17:58:59.346Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Blue Business Cash Credit Card",
+    "description": "Blue Business Cash Credit Card",
+    "slug": "business-credit-3",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "CapitalOne Small Business Credit Card",
+    "permalink": "/business-credit-8"
+  },
+  "nextItem": {
+    "title": "Blue Business Plus Card",
+    "permalink": "/business-credit-4"
+  }
+}

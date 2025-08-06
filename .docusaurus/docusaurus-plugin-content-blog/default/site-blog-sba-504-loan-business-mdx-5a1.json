@@ -1,0 +1,26 @@
+{
+  "permalink": "/sba-504-loan-business",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/sba-504-loan-business.mdx",
+  "source": "@site/blog/sba-504-loan-business.mdx",
+  "title": "SBA 504 loan",
+  "description": "SBA 504 loan",
+  "date": "2025-08-06T17:58:59.337Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "SBA 504 loan",
+    "description": "SBA 504 loan",
+    "slug": "sba-504-loan-business",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "SBA Microloans",
+    "permalink": "/sba-microloan-business"
+  },
+  "nextItem": {
+    "title": "SBA 7(a) Loan",
+    "permalink": "/sba-7a-loan-business"
+  }
+}

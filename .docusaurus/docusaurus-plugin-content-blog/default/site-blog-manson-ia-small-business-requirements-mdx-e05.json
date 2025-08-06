@@ -1,0 +1,34 @@
+{
+  "permalink": "/manson-ia-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/manson-ia-small-business-requirements.mdx",
+  "source": "@site/blog/manson-ia-small-business-requirements.mdx",
+  "title": "Manson, IA",
+  "description": "Manson, IA",
+  "date": "2025-08-06T17:58:57.631Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IA",
+      "permalink": "/tags/ia"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Manson, IA",
+    "description": "Manson, IA",
+    "slug": "manson-ia-small-business-requirements",
+    "tags": [
+      "IA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Storm Lake, IA",
+    "permalink": "/stormlake-ia-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Pocahontas, IA",
+    "permalink": "/pocahontas-ia-small-business-requirements"
+  }
+}

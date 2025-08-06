@@ -1,0 +1,34 @@
+{
+  "permalink": "/ray-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/ray-mi-small-business-requirements.mdx",
+  "source": "@site/blog/ray-mi-small-business-requirements.mdx",
+  "title": "Ray, MI",
+  "description": "Ray, MI",
+  "date": "2025-08-06T17:58:57.415Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Ray, MI",
+    "description": "Ray, MI",
+    "slug": "ray-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Ann Arbor, MI",
+    "permalink": "/annarbor-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Yale, MI",
+    "permalink": "/yale-mi-small-business-requirements"
+  }
+}

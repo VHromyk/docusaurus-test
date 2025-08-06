@@ -1,0 +1,26 @@
+{
+  "permalink": "/business-credit-12",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/business-credit-12.mdx",
+  "source": "@site/blog/business-credit-12.mdx",
+  "title": "American Express Business Cards",
+  "description": "American Express Business Cards",
+  "date": "2025-08-06T17:58:59.348Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "American Express Business Cards",
+    "description": "American Express Business Cards",
+    "slug": "business-credit-12",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "American Express Small Business Cards",
+    "permalink": "/business-credit-11"
+  },
+  "nextItem": {
+    "title": "Capital on Tap Business Credit Card",
+    "permalink": "/business-credit-15"
+  }
+}

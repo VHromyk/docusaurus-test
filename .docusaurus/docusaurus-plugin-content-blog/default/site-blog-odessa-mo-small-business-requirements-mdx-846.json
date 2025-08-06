@@ -1,0 +1,34 @@
+{
+  "permalink": "/odessa-mo-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/odessa-mo-small-business-requirements.mdx",
+  "source": "@site/blog/odessa-mo-small-business-requirements.mdx",
+  "title": "Odessa, MO",
+  "description": "Odessa, MO",
+  "date": "2025-08-06T17:58:58.269Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MO",
+      "permalink": "/tags/mo"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Odessa, MO",
+    "description": "Odessa, MO",
+    "slug": "odessa-mo-small-business-requirements",
+    "tags": [
+      "MO"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Oak Grove, MO",
+    "permalink": "/oakgrove-mo-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Lexington, MO",
+    "permalink": "/lexington-mo-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/smb-insurance-michigan",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/smb-insurance-michigan.mdx",
+  "source": "@site/blog/smb-insurance-michigan.mdx",
+  "title": "Michigan (MI) Business Insurance Requirements",
+  "description": "Michigan (MI) Business Insurance Requirements",
+  "date": "2025-08-06T17:58:59.360Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Michigan (MI) Business Insurance Requirements",
+    "description": "Michigan (MI) Business Insurance Requirements",
+    "slug": "smb-insurance-michigan",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Massachusetts (MA) Insurance Requirements",
+    "permalink": "/smb-insurance-massachusetts"
+  },
+  "nextItem": {
+    "title": "Maine (ME) Business Insurance Requirements",
+    "permalink": "/smb-insurance-maine"
+  }
+}

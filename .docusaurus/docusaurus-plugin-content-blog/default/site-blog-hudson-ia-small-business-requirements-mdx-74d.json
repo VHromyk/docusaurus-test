@@ -1,0 +1,34 @@
+{
+  "permalink": "/hudson-ia-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/hudson-ia-small-business-requirements.mdx",
+  "source": "@site/blog/hudson-ia-small-business-requirements.mdx",
+  "title": "Hudson, IA",
+  "description": "Hudson, IA",
+  "date": "2025-08-06T17:58:57.636Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IA",
+      "permalink": "/tags/ia"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Hudson, IA",
+    "description": "Hudson, IA",
+    "slug": "hudson-ia-small-business-requirements",
+    "tags": [
+      "IA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Oelwein, IA",
+    "permalink": "/oelwein-ia-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Independence, IA",
+    "permalink": "/independence-ia-small-business-requirements"
+  }
+}

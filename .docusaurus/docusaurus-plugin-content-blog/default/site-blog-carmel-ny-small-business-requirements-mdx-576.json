@@ -1,0 +1,34 @@
+{
+  "permalink": "/carmel-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/carmel-ny-small-business-requirements.mdx",
+  "source": "@site/blog/carmel-ny-small-business-requirements.mdx",
+  "title": "Carmel, NY",
+  "description": "Carmel, NY",
+  "date": "2025-08-06T17:58:55.965Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Carmel, NY",
+    "description": "Carmel, NY",
+    "slug": "carmel-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Dobbs Ferry, NY",
+    "permalink": "/dobbsferry-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Croton On Hudson, NY",
+    "permalink": "/crotononhudson-ny-small-business-requirements"
+  }
+}

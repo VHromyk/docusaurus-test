@@ -1,0 +1,34 @@
+{
+  "permalink": "/delhi-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/delhi-ny-small-business-requirements.mdx",
+  "source": "@site/blog/delhi-ny-small-business-requirements.mdx",
+  "title": "Delhi, NY",
+  "description": "Delhi, NY",
+  "date": "2025-08-06T17:58:56.095Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Delhi, NY",
+    "description": "Delhi, NY",
+    "slug": "delhi-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Greene, NY",
+    "permalink": "/greene-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Deposit, NY",
+    "permalink": "/deposit-ny-small-business-requirements"
+  }
+}

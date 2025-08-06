@@ -1,0 +1,34 @@
+{
+  "permalink": "/carlos-mn-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/carlos-mn-small-business-requirements.mdx",
+  "source": "@site/blog/carlos-mn-small-business-requirements.mdx",
+  "title": "Carlos, MN",
+  "description": "Carlos, MN",
+  "date": "2025-08-06T17:58:57.943Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MN",
+      "permalink": "/tags/mn"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Carlos, MN",
+    "description": "Carlos, MN",
+    "slug": "carlos-mn-small-business-requirements",
+    "tags": [
+      "MN"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Belgrade, MN",
+    "permalink": "/belgrade-mn-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Cold Spring, MN",
+    "permalink": "/coldspring-mn-small-business-requirements"
+  }
+}

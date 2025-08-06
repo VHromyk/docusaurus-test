@@ -1,0 +1,34 @@
+{
+  "permalink": "/akron-pa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/akron-pa-small-business-requirements.mdx",
+  "source": "@site/blog/akron-pa-small-business-requirements.mdx",
+  "title": "Akron, PA",
+  "description": "Akron, PA",
+  "date": "2025-08-06T17:58:56.232Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "PA",
+      "permalink": "/tags/pa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Akron, PA",
+    "description": "Akron, PA",
+    "slug": "akron-pa-small-business-requirements",
+    "tags": [
+      "PA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "East Earl, PA",
+    "permalink": "/eastearl-pa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Christiana, PA",
+    "permalink": "/christiana-pa-small-business-requirements"
+  }
+}

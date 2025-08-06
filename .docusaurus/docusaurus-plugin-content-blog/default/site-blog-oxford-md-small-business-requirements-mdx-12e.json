@@ -1,0 +1,34 @@
+{
+  "permalink": "/oxford-md-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/oxford-md-small-business-requirements.mdx",
+  "source": "@site/blog/oxford-md-small-business-requirements.mdx",
+  "title": "Oxford, MD",
+  "description": "Oxford, MD",
+  "date": "2025-08-06T17:58:56.371Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MD",
+      "permalink": "/tags/md"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Oxford, MD",
+    "description": "Oxford, MD",
+    "slug": "oxford-md-small-business-requirements",
+    "tags": [
+      "MD"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Rock Hall, MD",
+    "permalink": "/rockhall-md-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Queenstown, MD",
+    "permalink": "/queenstown-md-small-business-requirements"
+  }
+}

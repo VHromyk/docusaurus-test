@@ -1,0 +1,34 @@
+{
+  "permalink": "/durham-pa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/durham-pa-small-business-requirements.mdx",
+  "source": "@site/blog/durham-pa-small-business-requirements.mdx",
+  "title": "Durham, PA",
+  "description": "Durham, PA",
+  "date": "2025-08-06T17:58:56.255Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "PA",
+      "permalink": "/tags/pa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Durham, PA",
+    "description": "Durham, PA",
+    "slug": "durham-pa-small-business-requirements",
+    "tags": [
+      "PA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Whitehall, PA",
+    "permalink": "/whitehall-pa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Easton, PA",
+    "permalink": "/easton-pa-small-business-requirements"
+  }
+}

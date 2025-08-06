@@ -1,0 +1,34 @@
+{
+  "permalink": "/antigo-wi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/antigo-wi-small-business-requirements.mdx",
+  "source": "@site/blog/antigo-wi-small-business-requirements.mdx",
+  "title": "Antigo, WI",
+  "description": "Antigo, WI",
+  "date": "2025-08-06T17:58:57.791Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WI",
+      "permalink": "/tags/wi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Antigo, WI",
+    "description": "Antigo, WI",
+    "slug": "antigo-wi-small-business-requirements",
+    "tags": [
+      "WI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Amherst, WI",
+    "permalink": "/amherst-wi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Abbotsford, WI",
+    "permalink": "/abbotsford-wi-small-business-requirements"
+  }
+}

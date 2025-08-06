@@ -1,0 +1,34 @@
+{
+  "permalink": "/athens-wv-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/athens-wv-small-business-requirements.mdx",
+  "source": "@site/blog/athens-wv-small-business-requirements.mdx",
+  "title": "Athens, WV",
+  "description": "Athens, WV",
+  "date": "2025-08-06T17:58:56.465Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WV",
+      "permalink": "/tags/wv"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Athens, WV",
+    "description": "Athens, WV",
+    "slug": "athens-wv-small-business-requirements",
+    "tags": [
+      "WV"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Oceana, WV",
+    "permalink": "/oceana-wv-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Princeton, WV",
+    "permalink": "/princeton-wv-small-business-requirements"
+  }
+}

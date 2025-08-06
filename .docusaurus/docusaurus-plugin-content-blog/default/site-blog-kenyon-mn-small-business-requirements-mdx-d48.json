@@ -1,0 +1,34 @@
+{
+  "permalink": "/kenyon-mn-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/kenyon-mn-small-business-requirements.mdx",
+  "source": "@site/blog/kenyon-mn-small-business-requirements.mdx",
+  "title": "Kenyon, MN",
+  "description": "Kenyon, MN",
+  "date": "2025-08-06T17:58:57.903Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MN",
+      "permalink": "/tags/mn"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kenyon, MN",
+    "description": "Kenyon, MN",
+    "slug": "kenyon-mn-small-business-requirements",
+    "tags": [
+      "MN"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Kasson, MN",
+    "permalink": "/kasson-mn-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Hokah, MN",
+    "permalink": "/hokah-mn-small-business-requirements"
+  }
+}

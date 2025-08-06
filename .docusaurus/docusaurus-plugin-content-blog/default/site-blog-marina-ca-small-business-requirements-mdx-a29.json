@@ -1,0 +1,34 @@
+{
+  "permalink": "/marina-ca-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/marina-ca-small-business-requirements.mdx",
+  "source": "@site/blog/marina-ca-small-business-requirements.mdx",
+  "title": "Marina, CA",
+  "description": "Marina, CA",
+  "date": "2025-08-06T17:58:59.088Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Marina, CA",
+    "description": "Marina, CA",
+    "slug": "marina-ca-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Greenfield, CA",
+    "permalink": "/greenfield-ca-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Gonzales, CA",
+    "permalink": "/gonzales-ca-small-business-requirements"
+  }
+}

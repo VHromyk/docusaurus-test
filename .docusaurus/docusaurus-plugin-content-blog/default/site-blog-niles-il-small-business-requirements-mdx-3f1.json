@@ -1,0 +1,34 @@
+{
+  "permalink": "/niles-il-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/niles-il-small-business-requirements.mdx",
+  "source": "@site/blog/niles-il-small-business-requirements.mdx",
+  "title": "Niles, IL",
+  "description": "Niles, IL",
+  "date": "2025-08-06T17:58:58.120Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Niles, IL",
+    "description": "Niles, IL",
+    "slug": "niles-il-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Cicero, IL",
+    "permalink": "/cicero-il-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Elmwood Park, IL",
+    "permalink": "/elmwoodpark-il-small-business-requirements"
+  }
+}

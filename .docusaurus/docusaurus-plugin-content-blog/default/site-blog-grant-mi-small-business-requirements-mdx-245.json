@@ -1,0 +1,34 @@
+{
+  "permalink": "/grant-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/grant-mi-small-business-requirements.mdx",
+  "source": "@site/blog/grant-mi-small-business-requirements.mdx",
+  "title": "Grant, MI",
+  "description": "Grant, MI",
+  "date": "2025-08-06T17:58:57.541Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Grant, MI",
+    "description": "Grant, MI",
+    "slug": "grant-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Hopkins, MI",
+    "permalink": "/hopkins-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Caledonia, MI",
+    "permalink": "/caledonia-mi-small-business-requirements"
+  }
+}

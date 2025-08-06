@@ -1,0 +1,26 @@
+{
+  "permalink": "/business-loan-2",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/business-loan-2.mdx",
+  "source": "@site/blog/business-loan-2.mdx",
+  "title": "Loan by Kapitus",
+  "description": "Loan by Kapitus",
+  "date": "2025-08-06T17:58:59.341Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Loan by Kapitus",
+    "description": "Loan by Kapitus",
+    "slug": "business-loan-2",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Loan by Credibly",
+    "permalink": "/loan-sb-financing"
+  },
+  "nextItem": {
+    "title": "Equipment Leasing",
+    "permalink": "/equipment-leasing-american"
+  }
+}

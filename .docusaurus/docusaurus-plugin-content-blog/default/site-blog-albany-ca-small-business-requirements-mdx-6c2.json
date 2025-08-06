@@ -1,0 +1,34 @@
+{
+  "permalink": "/albany-ca-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/albany-ca-small-business-requirements.mdx",
+  "source": "@site/blog/albany-ca-small-business-requirements.mdx",
+  "title": "Albany, CA",
+  "description": "Albany, CA",
+  "date": "2025-08-06T17:58:59.123Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Albany, CA",
+    "description": "Albany, CA",
+    "slug": "albany-ca-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "San Pablo, CA",
+    "permalink": "/sanpablo-ca-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Berkeley, CA",
+    "permalink": "/berkeley-ca-small-business-requirements"
+  }
+}

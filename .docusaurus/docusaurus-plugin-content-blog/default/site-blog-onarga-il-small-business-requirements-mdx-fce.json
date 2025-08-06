@@ -1,0 +1,34 @@
+{
+  "permalink": "/onarga-il-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/onarga-il-small-business-requirements.mdx",
+  "source": "@site/blog/onarga-il-small-business-requirements.mdx",
+  "title": "Onarga, IL",
+  "description": "Onarga, IL",
+  "date": "2025-08-06T17:58:58.127Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Onarga, IL",
+    "description": "Onarga, IL",
+    "slug": "onarga-il-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Belvidere, IL",
+    "permalink": "/belvidere-il-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Hoopeston, IL",
+    "permalink": "/hoopeston-il-small-business-requirements"
+  }
+}

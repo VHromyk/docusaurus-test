@@ -1,0 +1,34 @@
+{
+  "permalink": "/kanab-ut-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/kanab-ut-small-business-requirements.mdx",
+  "source": "@site/blog/kanab-ut-small-business-requirements.mdx",
+  "title": "Kanab, UT",
+  "description": "Kanab, UT",
+  "date": "2025-08-06T17:58:58.879Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "UT",
+      "permalink": "/tags/ut"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kanab, UT",
+    "description": "Kanab, UT",
+    "slug": "kanab-ut-small-business-requirements",
+    "tags": [
+      "UT"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Ivins, UT",
+    "permalink": "/ivins-ut-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Cedar City, UT",
+    "permalink": "/cedarcity-ut-small-business-requirements"
+  }
+}

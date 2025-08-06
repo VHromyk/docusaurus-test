@@ -1,0 +1,34 @@
+{
+  "permalink": "/wayne-ne-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/wayne-ne-small-business-requirements.mdx",
+  "source": "@site/blog/wayne-ne-small-business-requirements.mdx",
+  "title": "Wayne, NE",
+  "description": "Wayne, NE",
+  "date": "2025-08-06T17:58:58.390Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NE",
+      "permalink": "/tags/ne"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Wayne, NE",
+    "description": "Wayne, NE",
+    "slug": "wayne-ne-small-business-requirements",
+    "tags": [
+      "NE"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Stanton, NE",
+    "permalink": "/stanton-ne-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Ponca, NE",
+    "permalink": "/ponca-ne-small-business-requirements"
+  }
+}

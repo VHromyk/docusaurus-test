@@ -1,0 +1,34 @@
+{
+  "permalink": "/loyal-wi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/loyal-wi-small-business-requirements.mdx",
+  "source": "@site/blog/loyal-wi-small-business-requirements.mdx",
+  "title": "Loyal, WI",
+  "description": "Loyal, WI",
+  "date": "2025-08-06T17:58:57.793Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WI",
+      "permalink": "/tags/wi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Loyal, WI",
+    "description": "Loyal, WI",
+    "slug": "loyal-wi-small-business-requirements",
+    "tags": [
+      "WI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Mosinee, WI",
+    "permalink": "/mosinee-wi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Marathon, WI",
+    "permalink": "/marathon-wi-small-business-requirements"
+  }
+}

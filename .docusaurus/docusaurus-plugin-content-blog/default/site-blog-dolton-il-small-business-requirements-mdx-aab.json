@@ -1,0 +1,34 @@
+{
+  "permalink": "/dolton-il-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/dolton-il-small-business-requirements.mdx",
+  "source": "@site/blog/dolton-il-small-business-requirements.mdx",
+  "title": "Dolton, IL",
+  "description": "Dolton, IL",
+  "date": "2025-08-06T17:58:58.080Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Dolton, IL",
+    "description": "Dolton, IL",
+    "slug": "dolton-il-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Crete, IL",
+    "permalink": "/crete-il-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Chicago Heights, IL",
+    "permalink": "/chicagoheights-il-small-business-requirements"
+  }
+}

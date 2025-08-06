@@ -1,0 +1,34 @@
+{
+  "permalink": "/rye-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/rye-ny-small-business-requirements.mdx",
+  "source": "@site/blog/rye-ny-small-business-requirements.mdx",
+  "title": "Rye, NY",
+  "description": "Rye, NY",
+  "date": "2025-08-06T17:58:55.971Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Rye, NY",
+    "description": "Rye, NY",
+    "slug": "rye-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Port Chester, NY",
+    "permalink": "/portchester-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Peekskill, NY",
+    "permalink": "/peekskill-ny-small-business-requirements"
+  }
+}

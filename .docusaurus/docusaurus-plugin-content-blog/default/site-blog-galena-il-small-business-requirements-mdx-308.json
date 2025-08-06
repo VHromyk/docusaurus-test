@@ -1,0 +1,34 @@
+{
+  "permalink": "/galena-il-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/galena-il-small-business-requirements.mdx",
+  "source": "@site/blog/galena-il-small-business-requirements.mdx",
+  "title": "Galena, IL",
+  "description": "Galena, IL",
+  "date": "2025-08-06T17:58:58.131Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Galena, IL",
+    "description": "Galena, IL",
+    "slug": "galena-il-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Freeport, IL",
+    "permalink": "/freeport-il-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Elizabeth, IL",
+    "permalink": "/elizabeth-il-small-business-requirements"
+  }
+}

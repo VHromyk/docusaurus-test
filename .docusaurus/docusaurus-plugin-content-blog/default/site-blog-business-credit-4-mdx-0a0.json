@@ -1,0 +1,26 @@
+{
+  "permalink": "/business-credit-4",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/business-credit-4.mdx",
+  "source": "@site/blog/business-credit-4.mdx",
+  "title": "Blue Business Plus Card",
+  "description": "Blue Business Plus Card",
+  "date": "2025-08-06T17:58:59.346Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Blue Business Plus Card",
+    "description": "Blue Business Plus Card",
+    "slug": "business-credit-4",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Blue Business Cash Credit Card",
+    "permalink": "/business-credit-3"
+  },
+  "nextItem": {
+    "title": "BOA Small Business Credit Cards",
+    "permalink": "/business-credit-5"
+  }
+}

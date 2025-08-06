@@ -1,0 +1,34 @@
+{
+  "permalink": "/dallas-pa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/dallas-pa-small-business-requirements.mdx",
+  "source": "@site/blog/dallas-pa-small-business-requirements.mdx",
+  "title": "Dallas, PA",
+  "description": "Dallas, PA",
+  "date": "2025-08-06T17:58:56.280Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "PA",
+      "permalink": "/tags/pa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Dallas, PA",
+    "description": "Dallas, PA",
+    "slug": "dallas-pa-small-business-requirements",
+    "tags": [
+      "PA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Berwick, PA",
+    "permalink": "/berwick-pa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Bear Creek, PA",
+    "permalink": "/bearcreek-pa-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/dover-nh-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/dover-nh-small-business-requirements.mdx",
+  "source": "@site/blog/dover-nh-small-business-requirements.mdx",
+  "title": "Dover, NH",
+  "description": "Dover, NH",
+  "date": "2025-08-06T17:58:55.721Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NH",
+      "permalink": "/tags/nh"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Dover, NH",
+    "description": "Dover, NH",
+    "slug": "dover-nh-small-business-requirements",
+    "tags": [
+      "NH"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Rochester, NH",
+    "permalink": "/rochester-nh-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "East Kingston, NH",
+    "permalink": "/eastkingston-nh-small-business-requirements"
+  }
+}

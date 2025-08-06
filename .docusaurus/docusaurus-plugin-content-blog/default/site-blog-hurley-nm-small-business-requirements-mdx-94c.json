@@ -1,0 +1,34 @@
+{
+  "permalink": "/hurley-nm-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/hurley-nm-small-business-requirements.mdx",
+  "source": "@site/blog/hurley-nm-small-business-requirements.mdx",
+  "title": "Hurley, NM",
+  "description": "Hurley, NM",
+  "date": "2025-08-06T17:58:58.935Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NM",
+      "permalink": "/tags/nm"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Hurley, NM",
+    "description": "Hurley, NM",
+    "slug": "hurley-nm-small-business-requirements",
+    "tags": [
+      "NM"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deming, NM",
+    "permalink": "/deming-nm-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Bayard, NM",
+    "permalink": "/bayard-nm-small-business-requirements"
+  }
+}

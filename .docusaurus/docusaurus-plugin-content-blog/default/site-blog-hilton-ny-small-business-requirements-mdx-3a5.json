@@ -1,0 +1,34 @@
+{
+  "permalink": "/hilton-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/hilton-ny-small-business-requirements.mdx",
+  "source": "@site/blog/hilton-ny-small-business-requirements.mdx",
+  "title": "Hilton, NY",
+  "description": "Hilton, NY",
+  "date": "2025-08-06T17:58:56.121Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Hilton, NY",
+    "description": "Hilton, NY",
+    "slug": "hilton-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Bloomfield, NY",
+    "permalink": "/bloomfield-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Geneseo, NY",
+    "permalink": "/geneseo-ny-small-business-requirements"
+  }
+}

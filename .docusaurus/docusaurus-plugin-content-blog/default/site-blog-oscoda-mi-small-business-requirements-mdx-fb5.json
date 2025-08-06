@@ -1,0 +1,34 @@
+{
+  "permalink": "/oscoda-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/oscoda-mi-small-business-requirements.mdx",
+  "source": "@site/blog/oscoda-mi-small-business-requirements.mdx",
+  "title": "Oscoda, MI",
+  "description": "Oscoda, MI",
+  "date": "2025-08-06T17:58:57.474Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Oscoda, MI",
+    "description": "Oscoda, MI",
+    "slug": "oscoda-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "South Branch, MI",
+    "permalink": "/southbranch-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Reese, MI",
+    "permalink": "/reese-mi-small-business-requirements"
+  }
+}

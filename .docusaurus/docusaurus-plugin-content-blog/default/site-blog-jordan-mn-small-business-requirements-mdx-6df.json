@@ -1,0 +1,34 @@
+{
+  "permalink": "/jordan-mn-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/jordan-mn-small-business-requirements.mdx",
+  "source": "@site/blog/jordan-mn-small-business-requirements.mdx",
+  "title": "Jordan, MN",
+  "description": "Jordan, MN",
+  "date": "2025-08-06T17:58:57.873Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MN",
+      "permalink": "/tags/mn"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Jordan, MN",
+    "description": "Jordan, MN",
+    "slug": "jordan-mn-small-business-requirements",
+    "tags": [
+      "MN"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Hutchinson, MN",
+    "permalink": "/hutchinson-mn-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Maple Plain, MN",
+    "permalink": "/mapleplain-mn-small-business-requirements"
+  }
+}

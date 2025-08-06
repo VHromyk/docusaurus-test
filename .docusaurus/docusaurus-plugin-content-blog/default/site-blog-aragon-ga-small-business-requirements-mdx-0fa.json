@@ -1,0 +1,34 @@
+{
+  "permalink": "/aragon-ga-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/aragon-ga-small-business-requirements.mdx",
+  "source": "@site/blog/aragon-ga-small-business-requirements.mdx",
+  "title": "Aragon, GA",
+  "description": "Aragon, GA",
+  "date": "2025-08-06T17:58:56.698Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "GA",
+      "permalink": "/tags/ga"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Aragon, GA",
+    "description": "Aragon, GA",
+    "slug": "aragon-ga-small-business-requirements",
+    "tags": [
+      "GA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Canton, GA",
+    "permalink": "/canton-ga-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Austell, GA",
+    "permalink": "/austell-ga-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/bethel-nc-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/bethel-nc-small-business-requirements.mdx",
+  "source": "@site/blog/bethel-nc-small-business-requirements.mdx",
+  "title": "Bethel, NC",
+  "description": "Bethel, NC",
+  "date": "2025-08-06T17:58:56.538Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NC",
+      "permalink": "/tags/nc"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Bethel, NC",
+    "description": "Bethel, NC",
+    "slug": "bethel-nc-small-business-requirements",
+    "tags": [
+      "NC"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Elm City, NC",
+    "permalink": "/elmcity-nc-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Black Creek, NC",
+    "permalink": "/blackcreek-nc-small-business-requirements"
+  }
+}

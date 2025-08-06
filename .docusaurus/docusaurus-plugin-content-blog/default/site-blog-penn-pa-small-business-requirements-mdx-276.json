@@ -1,0 +1,34 @@
+{
+  "permalink": "/penn-pa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/penn-pa-small-business-requirements.mdx",
+  "source": "@site/blog/penn-pa-small-business-requirements.mdx",
+  "title": "Penn, PA",
+  "description": "Penn, PA",
+  "date": "2025-08-06T17:58:56.176Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "PA",
+      "permalink": "/tags/pa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Penn, PA",
+    "description": "Penn, PA",
+    "slug": "penn-pa-small-business-requirements",
+    "tags": [
+      "PA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Mount Pleasant, PA",
+    "permalink": "/mountpleasant-pa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Ligonier, PA",
+    "permalink": "/ligonier-pa-small-business-requirements"
+  }
+}

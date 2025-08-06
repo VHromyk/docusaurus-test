@@ -1,0 +1,34 @@
+{
+  "permalink": "/canyon-tx-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/canyon-tx-small-business-requirements.mdx",
+  "source": "@site/blog/canyon-tx-small-business-requirements.mdx",
+  "title": "Canyon, TX",
+  "description": "Canyon, TX",
+  "date": "2025-08-06T17:58:58.727Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "TX",
+      "permalink": "/tags/tx"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Canyon, TX",
+    "description": "Canyon, TX",
+    "slug": "canyon-tx-small-business-requirements",
+    "tags": [
+      "TX"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Gruver, TX",
+    "permalink": "/gruver-tx-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Dalhart, TX",
+    "permalink": "/dalhart-tx-small-business-requirements"
+  }
+}

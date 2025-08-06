@@ -1,0 +1,34 @@
+{
+  "permalink": "/marion-va-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/marion-va-small-business-requirements.mdx",
+  "source": "@site/blog/marion-va-small-business-requirements.mdx",
+  "title": "Marion, VA",
+  "description": "Marion, VA",
+  "date": "2025-08-06T17:58:56.451Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "VA",
+      "permalink": "/tags/va"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Marion, VA",
+    "description": "Marion, VA",
+    "slug": "marion-va-small-business-requirements",
+    "tags": [
+      "VA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Wytheville, VA",
+    "permalink": "/wytheville-va-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Galax, VA",
+    "permalink": "/galax-va-small-business-requirements"
+  }
+}

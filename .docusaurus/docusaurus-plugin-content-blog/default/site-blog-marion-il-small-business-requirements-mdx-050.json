@@ -1,0 +1,34 @@
+{
+  "permalink": "/marion-il-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/marion-il-small-business-requirements.mdx",
+  "source": "@site/blog/marion-il-small-business-requirements.mdx",
+  "title": "Marion, IL",
+  "description": "Marion, IL",
+  "date": "2025-08-06T17:58:58.232Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Marion, IL",
+    "description": "Marion, IL",
+    "slug": "marion-il-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Jonesboro, IL",
+    "permalink": "/jonesboro-il-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Anna, IL",
+    "permalink": "/anna-il-small-business-requirements"
+  }
+}

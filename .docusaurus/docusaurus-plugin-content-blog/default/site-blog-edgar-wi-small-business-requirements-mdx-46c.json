@@ -1,0 +1,34 @@
+{
+  "permalink": "/edgar-wi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/edgar-wi-small-business-requirements.mdx",
+  "source": "@site/blog/edgar-wi-small-business-requirements.mdx",
+  "title": "Edgar, WI",
+  "description": "Edgar, WI",
+  "date": "2025-08-06T17:58:57.792Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WI",
+      "permalink": "/tags/wi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Edgar, WI",
+    "description": "Edgar, WI",
+    "slug": "edgar-wi-small-business-requirements",
+    "tags": [
+      "WI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Marathon, WI",
+    "permalink": "/marathon-wi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Greenwood, WI",
+    "permalink": "/greenwood-wi-small-business-requirements"
+  }
+}

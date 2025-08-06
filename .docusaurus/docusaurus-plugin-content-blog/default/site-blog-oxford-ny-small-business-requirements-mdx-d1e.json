@@ -1,0 +1,34 @@
+{
+  "permalink": "/oxford-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/oxford-ny-small-business-requirements.mdx",
+  "source": "@site/blog/oxford-ny-small-business-requirements.mdx",
+  "title": "Oxford, NY",
+  "description": "Oxford, NY",
+  "date": "2025-08-06T17:58:56.100Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Oxford, NY",
+    "description": "Oxford, NY",
+    "slug": "oxford-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Owego, NY",
+    "permalink": "/owego-ny-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Otego, NY",
+    "permalink": "/otego-ny-small-business-requirements"
+  }
+}

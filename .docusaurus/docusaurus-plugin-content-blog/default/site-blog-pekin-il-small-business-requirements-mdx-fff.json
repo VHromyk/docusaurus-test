@@ -1,0 +1,34 @@
+{
+  "permalink": "/pekin-il-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/pekin-il-small-business-requirements.mdx",
+  "source": "@site/blog/pekin-il-small-business-requirements.mdx",
+  "title": "Pekin, IL",
+  "description": "Pekin, IL",
+  "date": "2025-08-06T17:58:58.162Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Pekin, IL",
+    "description": "Pekin, IL",
+    "slug": "pekin-il-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Morton, IL",
+    "permalink": "/morton-il-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Manito, IL",
+    "permalink": "/manito-il-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/dover-oh-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/dover-oh-small-business-requirements.mdx",
+  "source": "@site/blog/dover-oh-small-business-requirements.mdx",
+  "title": "Dover, OH",
+  "description": "Dover, OH",
+  "date": "2025-08-06T17:58:57.214Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "OH",
+      "permalink": "/tags/oh"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Dover, OH",
+    "description": "Dover, OH",
+    "slug": "dover-oh-small-business-requirements",
+    "tags": [
+      "OH"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Marshallville, OH",
+    "permalink": "/marshallville-oh-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Louisville, OH",
+    "permalink": "/louisville-oh-small-business-requirements"
+  }
+}

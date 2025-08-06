@@ -1,0 +1,34 @@
+{
+  "permalink": "/kelso-wa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/kelso-wa-small-business-requirements.mdx",
+  "source": "@site/blog/kelso-wa-small-business-requirements.mdx",
+  "title": "Kelso, WA",
+  "description": "Kelso, WA",
+  "date": "2025-08-06T17:58:59.299Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WA",
+      "permalink": "/tags/wa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kelso, WA",
+    "description": "Kelso, WA",
+    "slug": "kelso-wa-small-business-requirements",
+    "tags": [
+      "WA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Longview, WA",
+    "permalink": "/longview-wa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "La Center, WA",
+    "permalink": "/lacenter-wa-small-business-requirements"
+  }
+}

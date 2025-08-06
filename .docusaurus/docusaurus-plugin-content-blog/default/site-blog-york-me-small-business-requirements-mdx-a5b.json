@@ -1,0 +1,34 @@
+{
+  "permalink": "/york-me-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/york-me-small-business-requirements.mdx",
+  "source": "@site/blog/york-me-small-business-requirements.mdx",
+  "title": "York, ME",
+  "description": "York, ME",
+  "date": "2025-08-06T17:58:55.729Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ME",
+      "permalink": "/tags/me"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "York, ME",
+    "description": "York, ME",
+    "slug": "york-me-small-business-requirements",
+    "tags": [
+      "ME"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Alfred, ME",
+    "permalink": "/alfred-me-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Kittery, ME",
+    "permalink": "/kittery-me-small-business-requirements"
+  }
+}

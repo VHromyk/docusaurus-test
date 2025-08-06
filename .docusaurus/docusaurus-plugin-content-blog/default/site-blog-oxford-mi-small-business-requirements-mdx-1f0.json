@@ -1,0 +1,34 @@
+{
+  "permalink": "/oxford-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/oxford-mi-small-business-requirements.mdx",
+  "source": "@site/blog/oxford-mi-small-business-requirements.mdx",
+  "title": "Oxford, MI",
+  "description": "Oxford, MI",
+  "date": "2025-08-06T17:58:57.445Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Oxford, MI",
+    "description": "Oxford, MI",
+    "slug": "oxford-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Lake Orion, MI",
+    "permalink": "/lakeorion-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Hartland, MI",
+    "permalink": "/hartland-mi-small-business-requirements"
+  }
+}

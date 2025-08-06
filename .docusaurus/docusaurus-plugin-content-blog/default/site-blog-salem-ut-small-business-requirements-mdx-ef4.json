@@ -1,0 +1,34 @@
+{
+  "permalink": "/salem-ut-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/salem-ut-small-business-requirements.mdx",
+  "source": "@site/blog/salem-ut-small-business-requirements.mdx",
+  "title": "Salem, UT",
+  "description": "Salem, UT",
+  "date": "2025-08-06T17:58:58.873Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "UT",
+      "permalink": "/tags/ut"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Salem, UT",
+    "description": "Salem, UT",
+    "slug": "salem-ut-small-business-requirements",
+    "tags": [
+      "UT"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Santaquin, UT",
+    "permalink": "/santaquin-ut-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Salina, UT",
+    "permalink": "/salina-ut-small-business-requirements"
+  }
+}

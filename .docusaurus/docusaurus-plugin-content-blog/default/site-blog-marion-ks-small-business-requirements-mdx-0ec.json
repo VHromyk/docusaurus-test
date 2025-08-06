@@ -1,0 +1,34 @@
+{
+  "permalink": "/marion-ks-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/marion-ks-small-business-requirements.mdx",
+  "source": "@site/blog/marion-ks-small-business-requirements.mdx",
+  "title": "Marion, KS",
+  "description": "Marion, KS",
+  "date": "2025-08-06T17:58:58.334Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "KS",
+      "permalink": "/tags/ks"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Marion, KS",
+    "description": "Marion, KS",
+    "slug": "marion-ks-small-business-requirements",
+    "tags": [
+      "KS"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Council Grove, KS",
+    "permalink": "/councilgrove-ks-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Burlington, KS",
+    "permalink": "/burlington-ks-small-business-requirements"
+  }
+}

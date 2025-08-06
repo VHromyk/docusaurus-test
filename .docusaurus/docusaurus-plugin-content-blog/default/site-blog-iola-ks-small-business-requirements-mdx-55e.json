@@ -1,0 +1,34 @@
+{
+  "permalink": "/iola-ks-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/iola-ks-small-business-requirements.mdx",
+  "source": "@site/blog/iola-ks-small-business-requirements.mdx",
+  "title": "Iola, KS",
+  "description": "Iola, KS",
+  "date": "2025-08-06T17:58:58.331Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "KS",
+      "permalink": "/tags/ks"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Iola, KS",
+    "description": "Iola, KS",
+    "slug": "iola-ks-small-business-requirements",
+    "tags": [
+      "KS"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Humboldt, KS",
+    "permalink": "/humboldt-ks-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Fredonia, KS",
+    "permalink": "/fredonia-ks-small-business-requirements"
+  }
+}

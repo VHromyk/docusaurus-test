@@ -1,0 +1,34 @@
+{
+  "permalink": "/dayton-wa-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/dayton-wa-small-business-requirements.mdx",
+  "source": "@site/blog/dayton-wa-small-business-requirements.mdx",
+  "title": "Dayton, WA",
+  "description": "Dayton, WA",
+  "date": "2025-08-06T17:58:59.321Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WA",
+      "permalink": "/tags/wa"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Dayton, WA",
+    "description": "Dayton, WA",
+    "slug": "dayton-wa-small-business-requirements",
+    "tags": [
+      "WA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "College Place, WA",
+    "permalink": "/collegeplace-wa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Benton City, WA",
+    "permalink": "/bentoncity-wa-small-business-requirements"
+  }
+}

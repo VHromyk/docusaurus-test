@@ -1,0 +1,22 @@
+{
+  "permalink": "/small-business-insurance",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/small-business-insurance.mdx",
+  "source": "@site/blog/small-business-insurance.mdx",
+  "title": "Small Business Insurance",
+  "description": "Small Business Insurance",
+  "date": "2025-08-06T17:58:59.373Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Small Business Insurance",
+    "description": "Small Business Insurance",
+    "slug": "small-business-insurance",
+    "tags": []
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Wisconsin (WI) Business Insurance Requirements",
+    "permalink": "/smb-insurance-wisconsin"
+  }
+}

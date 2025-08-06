@@ -1,0 +1,34 @@
+{
+  "permalink": "/elmira-ny-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/elmira-ny-small-business-requirements.mdx",
+  "source": "@site/blog/elmira-ny-small-business-requirements.mdx",
+  "title": "Elmira, NY",
+  "description": "Elmira, NY",
+  "date": "2025-08-06T17:58:56.146Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "NY",
+      "permalink": "/tags/ny"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Elmira, NY",
+    "description": "Elmira, NY",
+    "slug": "elmira-ny-small-business-requirements",
+    "tags": [
+      "NY"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Aliquippa, PA",
+    "permalink": "/aliquippa-pa-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Trumansburg, NY",
+    "permalink": "/trumansburg-ny-small-business-requirements"
+  }
+}

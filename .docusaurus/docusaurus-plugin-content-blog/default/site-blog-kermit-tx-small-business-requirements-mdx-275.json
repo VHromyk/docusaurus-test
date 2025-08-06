@@ -1,0 +1,34 @@
+{
+  "permalink": "/kermit-tx-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/kermit-tx-small-business-requirements.mdx",
+  "source": "@site/blog/kermit-tx-small-business-requirements.mdx",
+  "title": "Kermit, TX",
+  "description": "Kermit, TX",
+  "date": "2025-08-06T17:58:58.748Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "TX",
+      "permalink": "/tags/tx"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Kermit, TX",
+    "description": "Kermit, TX",
+    "slug": "kermit-tx-small-business-requirements",
+    "tags": [
+      "TX"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Van Horn, TX",
+    "permalink": "/vanhorn-tx-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Odessa, TX",
+    "permalink": "/odessa-tx-small-business-requirements"
+  }
+}

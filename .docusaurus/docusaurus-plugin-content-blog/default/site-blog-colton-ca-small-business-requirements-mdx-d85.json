@@ -1,0 +1,34 @@
+{
+  "permalink": "/colton-ca-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/colton-ca-small-business-requirements.mdx",
+  "source": "@site/blog/colton-ca-small-business-requirements.mdx",
+  "title": "Colton, CA",
+  "description": "Colton, CA",
+  "date": "2025-08-06T17:58:59.024Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Colton, CA",
+    "description": "Colton, CA",
+    "slug": "colton-ca-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Hesperia, CA",
+    "permalink": "/hesperia-ca-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Fontana, CA",
+    "permalink": "/fontana-ca-small-business-requirements"
+  }
+}

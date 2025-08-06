@@ -1,0 +1,34 @@
+{
+  "permalink": "/arcola-il-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/arcola-il-small-business-requirements.mdx",
+  "source": "@site/blog/arcola-il-small-business-requirements.mdx",
+  "title": "Arcola, IL",
+  "description": "Arcola, IL",
+  "date": "2025-08-06T17:58:58.180Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Arcola, IL",
+    "description": "Arcola, IL",
+    "slug": "arcola-il-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Arthur, IL",
+    "permalink": "/arthur-il-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Westville, IL",
+    "permalink": "/westville-il-small-business-requirements"
+  }
+}

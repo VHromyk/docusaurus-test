@@ -1,0 +1,34 @@
+{
+  "permalink": "/ecorse-mi-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/ecorse-mi-small-business-requirements.mdx",
+  "source": "@site/blog/ecorse-mi-small-business-requirements.mdx",
+  "title": "Ecorse, MI",
+  "description": "Ecorse, MI",
+  "date": "2025-08-06T17:58:57.437Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MI",
+      "permalink": "/tags/mi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Ecorse, MI",
+    "description": "Ecorse, MI",
+    "slug": "ecorse-mi-small-business-requirements",
+    "tags": [
+      "MI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Oak Park, MI",
+    "permalink": "/oakpark-mi-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Ferndale, MI",
+    "permalink": "/ferndale-mi-small-business-requirements"
+  }
+}

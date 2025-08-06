@@ -1,0 +1,34 @@
+{
+  "permalink": "/ca-state-regulations-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/ca-state-regulations-small-business-requirements.mdx",
+  "source": "@site/blog/ca-state-regulations-small-business-requirements.mdx",
+  "title": "California (CA) State",
+  "description": "California (CA) State",
+  "date": "2025-08-06T20:14:22.582Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CA",
+      "permalink": "/tags/ca"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "California (CA) State",
+    "description": "California (CA) State",
+    "slug": "ca-state-regulations-small-business-requirements",
+    "tags": [
+      "CA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Colorado (CO) State",
+    "permalink": "/co-state-regulations-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Arkansas (AR) State",
+    "permalink": "/ar-state-regulations-small-business-requirements"
+  }
+}

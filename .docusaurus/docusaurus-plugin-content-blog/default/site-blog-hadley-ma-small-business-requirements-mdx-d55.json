@@ -1,0 +1,34 @@
+{
+  "permalink": "/hadley-ma-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/hadley-ma-small-business-requirements.mdx",
+  "source": "@site/blog/hadley-ma-small-business-requirements.mdx",
+  "title": "Hadley, MA",
+  "description": "Hadley, MA",
+  "date": "2025-08-06T17:58:55.594Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MA",
+      "permalink": "/tags/ma"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Hadley, MA",
+    "description": "Hadley, MA",
+    "slug": "hadley-ma-small-business-requirements",
+    "tags": [
+      "MA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Granby, MA",
+    "permalink": "/granby-ma-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "East Longmeadow, MA",
+    "permalink": "/eastlongmeadow-ma-small-business-requirements"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "permalink": "/federal-regulations",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/federal-regulations.mdx",
+  "source": "@site/blog/federal-regulations.mdx",
+  "title": "Federal Regulations",
+  "description": "Federal Regulations",
+  "date": "2025-08-06T20:14:22.549Z",
+  "tags": [],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Federal Regulations",
+    "description": "Federal Regulations",
+    "slug": "federal-regulations",
+    "tags": []
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New York (NY) State",
+    "permalink": "/ny-state-regulations-small-business-requirements"
+  }
+}

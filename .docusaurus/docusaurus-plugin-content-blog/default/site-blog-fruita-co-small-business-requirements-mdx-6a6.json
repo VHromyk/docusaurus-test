@@ -1,0 +1,34 @@
+{
+  "permalink": "/fruita-co-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/fruita-co-small-business-requirements.mdx",
+  "source": "@site/blog/fruita-co-small-business-requirements.mdx",
+  "title": "Fruita, CO",
+  "description": "Fruita, CO",
+  "date": "2025-08-06T17:58:58.794Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "CO",
+      "permalink": "/tags/co"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Fruita, CO",
+    "description": "Fruita, CO",
+    "slug": "fruita-co-small-business-requirements",
+    "tags": [
+      "CO"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Aspen, CO",
+    "permalink": "/aspen-co-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Glenwood Springs, CO",
+    "permalink": "/glenwoodsprings-co-small-business-requirements"
+  }
+}

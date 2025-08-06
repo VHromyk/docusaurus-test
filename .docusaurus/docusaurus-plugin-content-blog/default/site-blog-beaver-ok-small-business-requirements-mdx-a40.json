@@ -1,0 +1,34 @@
+{
+  "permalink": "/beaver-ok-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/beaver-ok-small-business-requirements.mdx",
+  "source": "@site/blog/beaver-ok-small-business-requirements.mdx",
+  "title": "Beaver, OK",
+  "description": "Beaver, OK",
+  "date": "2025-08-06T17:58:58.495Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "OK",
+      "permalink": "/tags/ok"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Beaver, OK",
+    "description": "Beaver, OK",
+    "slug": "beaver-ok-small-business-requirements",
+    "tags": [
+      "OK"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Guymon, OK",
+    "permalink": "/guymon-ok-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Shattuck, OK",
+    "permalink": "/shattuck-ok-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/delano-mn-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/delano-mn-small-business-requirements.mdx",
+  "source": "@site/blog/delano-mn-small-business-requirements.mdx",
+  "title": "Delano, MN",
+  "description": "Delano, MN",
+  "date": "2025-08-06T17:58:57.868Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MN",
+      "permalink": "/tags/mn"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Delano, MN",
+    "description": "Delano, MN",
+    "slug": "delano-mn-small-business-requirements",
+    "tags": [
+      "MN"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Fairfax, MN",
+    "permalink": "/fairfax-mn-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Elk River, MN",
+    "permalink": "/elkriver-mn-small-business-requirements"
+  }
+}

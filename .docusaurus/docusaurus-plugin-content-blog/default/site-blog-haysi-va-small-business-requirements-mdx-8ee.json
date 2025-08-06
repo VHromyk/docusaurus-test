@@ -1,0 +1,34 @@
+{
+  "permalink": "/haysi-va-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/haysi-va-small-business-requirements.mdx",
+  "source": "@site/blog/haysi-va-small-business-requirements.mdx",
+  "title": "Haysi, VA",
+  "description": "Haysi, VA",
+  "date": "2025-08-06T17:58:56.444Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "VA",
+      "permalink": "/tags/va"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Haysi, VA",
+    "description": "Haysi, VA",
+    "slug": "haysi-va-small-business-requirements",
+    "tags": [
+      "VA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Gate City, VA",
+    "permalink": "/gatecity-va-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Big Stone Gap, VA",
+    "permalink": "/bigstonegap-va-small-business-requirements"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/smb-insurance-georgia",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/smb-insurance-georgia.mdx",
+  "source": "@site/blog/smb-insurance-georgia.mdx",
+  "title": "Georgia (GA) Business Insurance Requirements",
+  "description": "Georgia (GA) Business Insurance Requirements",
+  "date": "2025-08-06T17:58:59.355Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "GA",
+      "permalink": "/tags/ga"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Georgia (GA) Business Insurance Requirements",
+    "description": "Georgia (GA) Business Insurance Requirements",
+    "slug": "smb-insurance-georgia",
+    "tags": [
+      "GA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Florida (FL) Business Insurance Requirements",
+    "permalink": "/smb-insurance-florida"
+  },
+  "nextItem": {
+    "title": "Hawaii (HI) Business Insurance Requirements",
+    "permalink": "/smb-insurance-hawaii"
+  }
+}
