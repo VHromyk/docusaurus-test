@@ -4,7 +4,7 @@
   "source": "@site/blog/federal-regulations.mdx",
   "title": "Federal Regulations",
   "description": "Federal Regulations",
-  "date": "2025-08-07T06:43:14.081Z",
+  "date": "2025-08-07T06:45:16.000Z",
   "tags": [],
   "hasTruncateMarker": false,
   "authors": [],
@@ -16,7 +16,11 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "New York (NY) State",
-    "permalink": "/ny-state-regulations-small-business-requirements"
+    "title": "Colorado (CO) State",
+    "permalink": "/co-state-regulations-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Hawaii (HI) State",
+    "permalink": "/hi-state-regulations-small-business-requirements"
   }
 }

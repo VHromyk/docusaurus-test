@@ -4,7 +4,7 @@
   "source": "@site/blog/hi-state-regulations-small-business-requirements.mdx",
   "title": "Hawaii (HI) State",
   "description": "Hawaii (HI) State",
-  "date": "2025-08-07T06:43:14.098Z",
+  "date": "2025-08-07T06:45:16.000Z",
   "tags": [
     {
       "inline": true,
@@ -24,11 +24,11 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "Arizona (AZ) State",
-    "permalink": "/az-state-regulations-small-business-requirements"
+    "title": "Federal Regulations",
+    "permalink": "/federal-regulations"
   },
   "nextItem": {
-    "title": "Alaska (AK) State",
-    "permalink": "/ak-state-regulations-small-business-requirements"
+    "title": "New York (NY) State",
+    "permalink": "/ny-state-regulations-small-business-requirements"
   }
 }

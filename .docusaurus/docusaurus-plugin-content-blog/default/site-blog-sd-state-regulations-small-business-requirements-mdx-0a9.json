@@ -1,0 +1,34 @@
+{
+  "permalink": "/sd-state-regulations-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/sd-state-regulations-small-business-requirements.mdx",
+  "source": "@site/blog/sd-state-regulations-small-business-requirements.mdx",
+  "title": "South Dakota (SD) State",
+  "description": "South Dakota (SD) State",
+  "date": "2025-08-07T07:01:09.610Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "SD",
+      "permalink": "/tags/sd"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "South Dakota (SD) State",
+    "description": "South Dakota (SD) State",
+    "slug": "sd-state-regulations-small-business-requirements",
+    "tags": [
+      "SD"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Tennessee (TN) State",
+    "permalink": "/tn-state-regulations-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "South Carolina (SC) State",
+    "permalink": "/sc-state-regulations-small-business-requirements"
+  }
+}

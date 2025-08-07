@@ -1,0 +1,34 @@
+{
+  "permalink": "/il-state-regulations-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/il-state-regulations-small-business-requirements.mdx",
+  "source": "@site/blog/il-state-regulations-small-business-requirements.mdx",
+  "title": "llinois (IL) State",
+  "description": "llinois (IL) State",
+  "date": "2025-08-07T07:01:09.555Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "IL",
+      "permalink": "/tags/il"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "llinois (IL) State",
+    "description": "llinois (IL) State",
+    "slug": "il-state-regulations-small-business-requirements",
+    "tags": [
+      "IL"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Indiana (IN) State",
+    "permalink": "/in-state-regulations-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Idaho (ID) State",
+    "permalink": "/id-state-regulations-small-business-requirements"
+  }
+}

@@ -4,7 +4,7 @@
   "source": "@site/blog/ca-state-regulations-small-business-requirements.mdx",
   "title": "California (CA) State",
   "description": "California (CA) State",
-  "date": "2025-08-07T06:43:14.114Z",
+  "date": "2025-08-07T06:45:16.000Z",
   "tags": [
     {
       "inline": true,
@@ -24,11 +24,11 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "Colorado (CO) State",
-    "permalink": "/co-state-regulations-small-business-requirements"
+    "title": "Arizona (AZ) State",
+    "permalink": "/az-state-regulations-small-business-requirements"
   },
   "nextItem": {
-    "title": "Arkansas (AR) State",
-    "permalink": "/ar-state-regulations-small-business-requirements"
+    "title": "Colorado (CO) State",
+    "permalink": "/co-state-regulations-small-business-requirements"
   }
 }

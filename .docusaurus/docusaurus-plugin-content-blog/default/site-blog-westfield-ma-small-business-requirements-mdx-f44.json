@@ -1,0 +1,34 @@
+{
+  "permalink": "/westfield-ma-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/westfield-ma-small-business-requirements.mdx",
+  "source": "@site/blog/westfield-ma-small-business-requirements.mdx",
+  "title": "Westfield, MA",
+  "description": "Westfield, MA",
+  "date": "2025-08-07T07:01:09.640Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MA",
+      "permalink": "/tags/ma"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Westfield, MA",
+    "description": "Westfield, MA",
+    "slug": "westfield-ma-small-business-requirements",
+    "tags": [
+      "MA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Wilbraham, MA",
+    "permalink": "/wilbraham-ma-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "South Hadley, MA",
+    "permalink": "/southhadley-ma-small-business-requirements"
+  }
+}

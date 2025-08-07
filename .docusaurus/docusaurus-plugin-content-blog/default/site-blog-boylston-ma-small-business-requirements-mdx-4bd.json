@@ -1,0 +1,34 @@
+{
+  "permalink": "/boylston-ma-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/boylston-ma-small-business-requirements.mdx",
+  "source": "@site/blog/boylston-ma-small-business-requirements.mdx",
+  "title": "Boylston, MA",
+  "description": "Boylston, MA",
+  "date": "2025-08-07T07:01:09.657Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MA",
+      "permalink": "/tags/ma"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Boylston, MA",
+    "description": "Boylston, MA",
+    "slug": "boylston-ma-small-business-requirements",
+    "tags": [
+      "MA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Clinton, MA",
+    "permalink": "/clinton-ma-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Shirley, MA",
+    "permalink": "/shirley-ma-small-business-requirements"
+  }
+}

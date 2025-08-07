@@ -1,0 +1,34 @@
+{
+  "permalink": "/monterey-ma-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/monterey-ma-small-business-requirements.mdx",
+  "source": "@site/blog/monterey-ma-small-business-requirements.mdx",
+  "title": "Monterey, MA",
+  "description": "Monterey, MA",
+  "date": "2025-08-07T07:01:09.645Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MA",
+      "permalink": "/tags/ma"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Monterey, MA",
+    "description": "Monterey, MA",
+    "slug": "monterey-ma-small-business-requirements",
+    "tags": [
+      "MA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Tyringham, MA",
+    "permalink": "/tyringham-ma-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "North Adams, MA",
+    "permalink": "/northadams-ma-small-business-requirements"
+  }
+}

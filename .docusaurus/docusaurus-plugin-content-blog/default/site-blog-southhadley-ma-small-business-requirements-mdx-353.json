@@ -1,0 +1,34 @@
+{
+  "permalink": "/southhadley-ma-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/southhadley-ma-small-business-requirements.mdx",
+  "source": "@site/blog/southhadley-ma-small-business-requirements.mdx",
+  "title": "South Hadley, MA",
+  "description": "South Hadley, MA",
+  "date": "2025-08-07T07:01:09.639Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "MA",
+      "permalink": "/tags/ma"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "South Hadley, MA",
+    "description": "South Hadley, MA",
+    "slug": "southhadley-ma-small-business-requirements",
+    "tags": [
+      "MA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Westfield, MA",
+    "permalink": "/westfield-ma-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Warren, MA",
+    "permalink": "/warren-ma-small-business-requirements"
+  }
+}

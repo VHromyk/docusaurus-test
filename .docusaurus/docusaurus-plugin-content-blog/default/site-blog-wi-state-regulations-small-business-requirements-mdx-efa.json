@@ -1,0 +1,34 @@
+{
+  "permalink": "/wi-state-regulations-small-business-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/wi-state-regulations-small-business-requirements.mdx",
+  "source": "@site/blog/wi-state-regulations-small-business-requirements.mdx",
+  "title": "Wisconsin (WI) State",
+  "description": "Wisconsin (WI) State",
+  "date": "2025-08-07T07:01:09.626Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "WI",
+      "permalink": "/tags/wi"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Wisconsin (WI) State",
+    "description": "Wisconsin (WI) State",
+    "slug": "wi-state-regulations-small-business-requirements",
+    "tags": [
+      "WI"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Wyoming (WY) State",
+    "permalink": "/wy-state-regulations-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "West Virginia (WV) State",
+    "permalink": "/wv-state-regulations-small-business-requirements"
+  }
+}

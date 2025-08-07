@@ -4,7 +4,7 @@
   "source": "@site/blog/ny-state-regulations-small-business-requirements.mdx",
   "title": "New York (NY) State",
   "description": "New York (NY) State",
-  "date": "2025-08-07T06:43:14.090Z",
+  "date": "2025-08-07T06:45:16.000Z",
   "tags": [
     {
       "inline": true,
@@ -24,11 +24,7 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "Alabama (AL) State",
-    "permalink": "/al-state-regulations-small-business-requirements"
-  },
-  "nextItem": {
-    "title": "Federal Regulations",
-    "permalink": "/federal-regulations"
+    "title": "Hawaii (HI) State",
+    "permalink": "/hi-state-regulations-small-business-requirements"
   }
 }

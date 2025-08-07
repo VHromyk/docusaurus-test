@@ -4,7 +4,7 @@
   "source": "@site/blog/co-state-regulations-small-business-requirements.mdx",
   "title": "Colorado (CO) State",
   "description": "Colorado (CO) State",
-  "date": "2025-08-07T06:43:14.117Z",
+  "date": "2025-08-07T06:45:16.000Z",
   "tags": [
     {
       "inline": true,
@@ -23,8 +23,12 @@
     ]
   },
   "unlisted": false,
-  "nextItem": {
+  "prevItem": {
     "title": "California (CA) State",
     "permalink": "/ca-state-regulations-small-business-requirements"
+  },
+  "nextItem": {
+    "title": "Federal Regulations",
+    "permalink": "/federal-regulations"
   }
 }
