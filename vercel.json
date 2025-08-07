@@ -1,5 +1,6 @@
 {
   "outputDirectory": "build",
   "buildCommand": "",
-  "installCommand": ""
+  "installCommand": "",
+  "framework": "other"
 }
