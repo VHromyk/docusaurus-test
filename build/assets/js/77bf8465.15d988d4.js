@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([["733"],{1296:function(a){a.exports=JSON.parse('{"tag":{"label":"AZ","permalink":"/tags/az","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/az","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

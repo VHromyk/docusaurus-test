@@ -137,7 +137,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    })
+    }),
+  future: {
+    v4: true,
+    experimental_faster: true,
+  },
 };
 
 module.exports = config;

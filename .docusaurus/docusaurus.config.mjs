@@ -282,21 +282,20 @@ export default {
       "maxHeadingLevel": 3
     }
   },
-  "baseUrlIssueBanner": true,
   "future": {
     "v4": {
-      "removeLegacyPostBuildHeadAttribute": false,
-      "useCssCascadeLayers": false
+      "removeLegacyPostBuildHeadAttribute": true,
+      "useCssCascadeLayers": true
     },
     "experimental_faster": {
-      "swcJsLoader": false,
-      "swcJsMinimizer": false,
-      "swcHtmlMinimizer": false,
-      "lightningCssMinimizer": false,
-      "mdxCrossCompilerCache": false,
-      "rspackBundler": false,
-      "rspackPersistentCache": false,
-      "ssgWorkerThreads": false
+      "swcJsLoader": true,
+      "swcJsMinimizer": true,
+      "swcHtmlMinimizer": true,
+      "lightningCssMinimizer": true,
+      "mdxCrossCompilerCache": true,
+      "rspackBundler": true,
+      "rspackPersistentCache": true,
+      "ssgWorkerThreads": true
     },
     "experimental_storage": {
       "type": "localStorage",
@@ -304,6 +303,7 @@ export default {
     },
     "experimental_router": "browser"
   },
+  "baseUrlIssueBanner": true,
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [

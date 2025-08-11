@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[7663],{2290:a=>{a.exports=JSON.parse('{"tag":{"label":"WV","permalink":"/tags/wv","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/wv","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
